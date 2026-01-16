@@ -1,0 +1,38 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 10,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "vigilance",
+    "hullMods": [
+        "extendedshieldemitter",
+        "frontemitter",
+        "hardened_subsystems",
+        "hardenedshieldemitter",
+        "missleracks"
+    ],
+    "variantId": "vigilance_Support2",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "heavyac"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "gorgonpod"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "swarmer"
+            }
+        }
+    ]
+}

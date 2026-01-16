@@ -1,0 +1,180 @@
+{
+    "hullName": "Vanguard",
+    "hullId": "vanguard",
+    "hullSize": "FRIGATE",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/vanguard/vanguard_base.png",
+    "height": 104,
+    "width": 104,
+    "center": [
+        52, 51
+    ],
+    "collisionRadius": 75,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 73,
+    "viewOffset": 0,
+    "builtInMods": [
+        "rugged",
+        "distributed_fire_control",
+        "ballistic_rangefinder"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                      21,       40
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                      44,        0
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                      21,      -40
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 90,
+            "locations": [
+                       2,       37
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 270,
+            "locations": [
+                       2,      -37
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 160,
+            "angle": 35,
+            "locations": [
+                      28,       21
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 160,
+            "angle": 325,
+            "locations": [
+                      28,      -21
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 120,
+            "angle": 0,
+            "locations": [
+                      23,        0
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -48, 21
+            ],
+            "length": 48,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -48, 8
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -48, -8
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -48, -20
+            ],
+            "length": 48,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "LOW_TECH"
+        }
+    ],
+    "bounds": [
+              48,       17,
+              27,       34,
+              26,       45,
+             -21,       45,
+             -29,       38,
+        
+             -44,       41,
+             -36,       28,
+             -46,       24,
+             -46,      -23,
+             -35,      -29,
+        
+             -45,      -39,
+             -20,      -40,
+             -18,      -46,
+              26,      -44,
+              27,      -34,
+        
+              48,      -16
+    # 16 points total.
+    ]
+}

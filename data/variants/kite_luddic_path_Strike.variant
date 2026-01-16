@@ -1,0 +1,34 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 3,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "kite_luddic_path",
+    "hullMods": [
+        "missile_autoloader",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "kite_luddic_path_Strike",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "lightmg",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "hammer",
+                "WS 001": "hammer",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

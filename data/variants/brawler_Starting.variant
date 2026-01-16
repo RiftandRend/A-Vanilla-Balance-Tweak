@@ -1,0 +1,36 @@
+{
+    "displayName": "Starting",
+    "fluxCapacitors": 9,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "brawler",
+    "hullMods": [
+        "efficiency_overhaul",
+        "fluxdistributor",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "brawler_Starting",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "heavymortar",
+                "WS 001": "heavymortar",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "railgun",
+                "WS 003": "railgun",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,59 @@
+{
+    "displayName": "Close Support",
+    "fluxCapacitors": 6,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "falcon_LG",
+    "hullMods": [
+        "advancedoptics",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "falcon_LG_CS",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "gravitonbeam",
+                "WS 007": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "heatseeker",
+                "WS 001": "heatseeker",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "gravitonbeam",
+                "WS 005": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "taclaser",
+                "WS 010": "taclaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "pdlaser",
+                "WS 003": "pdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

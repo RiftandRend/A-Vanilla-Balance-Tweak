@@ -1,0 +1,43 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "remnant_hangar1",
+    "hullMods": [
+        "armoredweapons",
+        "autorepair",
+        "expanded_deck_crew",
+        "fluxbreakers",
+        "magazines",
+        "turretgyros",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "remnant_hangar1_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "phasebeam",
+                "WS 001": "phasebeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "ioncannon",
+                "WS 005": "ioncannon",
+            }
+        },
+    ],
+    "wings": [
+        "spark_wing",
+        "spark_wing",
+        "spark_wing",
+    ],
+    "modules": [],
+}

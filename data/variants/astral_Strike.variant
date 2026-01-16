@@ -1,0 +1,73 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 50,
+    "fluxVents": 32,
+    "goalVariant": true,
+    "hullId": "astral",
+    "hullMods": [
+        "advancedoptics",
+        "eccm",
+        "expanded_deck_crew",
+        "hardenedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "astral_Strike",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "taclaser",
+                "WS 006": "taclaser",
+                "WS 007": "taclaser",
+                "WS 005": "taclaser",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 011": "squall",
+                "WS 012": "squall",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "gravitonbeam",
+                "WS 024": "gravitonbeam",
+                "WS 014": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "swarmer",
+                "WS 002": "swarmer",
+                "WS 003": "swarmer",
+                "WS 001": "swarmer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "heavyburst",
+                "WS 023": "heavyburst",
+            }
+        },
+    ],
+    "wings": [
+        "broadsword_wing",
+        "dagger_wing",
+        "longbow_wing",
+        "dagger_wing",
+        "longbow_wing",
+        "broadsword_wing",
+    ],
+    "modules": [],
+}

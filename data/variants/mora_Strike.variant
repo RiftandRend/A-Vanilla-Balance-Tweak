@@ -1,0 +1,59 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 11,
+    "fluxVents": 3,
+    "goalVariant": true,
+    "hullId": "mora",
+    "hullMods": [
+        "eccm",
+        "expanded_deck_crew",
+        "missleracks",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "mora_Strike",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "harpoonpod",
+                "WS 003": "harpoonpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "lightac",
+                "WS 005": "lightac",
+                "WS 013": "lightac",
+                "WS 012": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "vulcan",
+                "WS 014": "vulcan",
+                "WS 011": "vulcan",
+            }
+        },
+    ],
+    "wings": [
+        "piranha_wing",
+        "piranha_wing",
+        "broadsword_wing",
+    ],
+    "modules": [],
+}

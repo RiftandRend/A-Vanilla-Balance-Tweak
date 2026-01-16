@@ -1,0 +1,73 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 50,
+    "fluxVents": 42,
+    "goalVariant": true,
+    "hullId": "astral",
+    "hullMods": [
+        "advancedoptics",
+        "expanded_deck_crew",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "astral_Elite",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 012": "tachyonlance",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "squall",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "taclaser",
+                "WS 006": "taclaser",
+                "WS 007": "taclaser",
+                "WS 005": "taclaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "gravitonbeam",
+                "WS 013": "gravitonbeam",
+                "WS 024": "gravitonbeam",
+                "WS 014": "gravitonbeam",
+                "WS 023": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "swarmer",
+                "WS 002": "swarmer",
+                "WS 003": "swarmer",
+                "WS 001": "swarmer",
+            }
+        },
+    ],
+    "wings": [
+        "broadsword_wing",
+        "longbow_wing",
+        "longbow_wing",
+        "longbow_wing",
+        "longbow_wing",
+        "broadsword_wing",
+    ],
+    "modules": [],
+}

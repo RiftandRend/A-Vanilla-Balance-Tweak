@@ -1,0 +1,62 @@
+{
+    "displayName": "DEM",
+    "fluxCapacitors": 13,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "gryphon",
+    "hullMods": [
+        "eccm",
+        "nav_relay",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "gryphon_DEM",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "hydra",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "dragon",
+                "WS 009": "dragon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "gazer",
+                "WS 012": "gazer",
+                "WS 010": "gazer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "irautolance",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "vulcan",
+                "WS 007": "vulcan",
+                "WS 004": "vulcan",
+                "WS 005": "vulcan",
+                "WS 003": "vulcan",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

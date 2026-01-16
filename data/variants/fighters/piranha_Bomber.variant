@@ -1,0 +1,28 @@
+{
+    "displayName": "Bomber",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "piranha",
+    "hullMods": [
+        "insulatedengine"
+    ],
+    "quality": 0.5,
+    "variantId": "piranha_Bomber",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightmg"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "bomb"
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 50,
+    "fluxVents": 34,
+    "goalVariant": true,
+    "hullId": "conquest",
+    "hullMods": [
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "magazines",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "conquest_Elite",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "multineedler",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "hurricane",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 012": "gauss",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "pdburst",
+                "WS 007": "pdburst",
+                "WS 004": "pdburst",
+                "WS 005": "pdburst",
+                "WS 003": "pdburst",
+                "WS 017": "vulcan",
+                "WS 018": "vulcan",
+                "WS 015": "shredder",
+                "WS 016": "shredder",
+                "WS 022": "miningblaster",
+                "WS 023": "miningblaster",
+                "WS 010": "pdburst",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "locust",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 019": "phasecl",
+                "WS 020": "phasecl",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "lrpdlaser",
+                "WS 006": "lrpdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

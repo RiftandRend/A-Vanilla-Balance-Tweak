@@ -1,0 +1,37 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 5,
+    "goalVariant": true,
+    "hullId": "vigilance",
+    "hullMods": [
+        "extendedshieldemitter",
+        "frontemitter",
+        "hardenedshieldemitter",
+        "missleracks"
+    ],
+    "variantId": "vigilance_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "heavyac"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "harpoonpod"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "swarmer"
+            }
+        }
+    ]
+}

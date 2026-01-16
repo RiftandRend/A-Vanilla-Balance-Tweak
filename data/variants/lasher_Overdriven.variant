@@ -1,0 +1,44 @@
+{
+    "displayName": "Overdriven",
+    "fluxCapacitors": 10,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "lasher",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "safetyoverrides",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "lasher_Overdriven",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "lightag",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "hammer",
+                "WS 001": "hammer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "lightdualmg",
+                "WS 005": "lightdualmg",
+                "WS 002": "lightdualmg",
+                "WS 003": "lightdualmg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

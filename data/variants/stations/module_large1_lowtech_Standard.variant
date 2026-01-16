@@ -1,0 +1,84 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "module_large1_lowtech",
+    "hullMods": [
+        "advancedshieldemitter",
+        "armoredweapons",
+        "autorepair",
+        "eccm",
+        "fluxbreakers",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "module_large1_lowtech_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 013": "sabotpod",
+                "WS 011": "sabotpod",
+                "WS 012": "sabotpod",
+                "WS 010": "sabotpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "harpoonpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "typhoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "hephag",
+                "WS 002": "hephag",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "hveldriver",
+                "WS 008": "hveldriver",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "lightdualac",
+                "WS 018": "lightdualac",
+                "WS 020": "lightdualac",
+                "WS 021": "lightdualac",
+                "WS 023": "lightdualac",
+                "WS 026": "lightdualac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "devastator",
+                "WS 003": "devastator",
+                "WS 004": "dualflak",
+                "WS 009": "dualflak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

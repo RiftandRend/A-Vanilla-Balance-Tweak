@@ -1,0 +1,31 @@
+{
+    "displayName": "Torpedo Bomber",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "trident",
+    "hullMods": [
+        "eccm",
+        "advancedoptics"
+    ],
+    "quality": 1.0,
+    "variantId": "trident_Bomber",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "lrpdlaser",
+                "WS 001": "lrpdlaser"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 005": "atropos_single",
+                "WS 004": "atropos_single"
+            }
+        }
+    ]
+}

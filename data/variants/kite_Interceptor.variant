@@ -1,0 +1,34 @@
+{
+    "displayName": "Interceptor",
+    "fluxCapacitors": 10,
+    "fluxVents": 2,
+    "goalVariant": true,
+    "hullId": "kite_hegemony",
+    "hullMods": [
+        "eccm",
+        "hardenedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "kite_hegemony_Interceptor",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "lightdualmg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "swarmer",
+                "WS 001": "swarmer",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,29 @@
+{
+    "displayName": "Kinetic Bomber",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "longbow",
+    "hullMods": [
+        "no_weapon_flux",
+        "eccm"
+    ],
+    "quality": 0.5,
+    "variantId": "longbow_Support",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pdburst"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "sabot_fighter"
+            }
+        }
+    ]
+}

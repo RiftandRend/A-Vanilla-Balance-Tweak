@@ -1,0 +1,28 @@
+{
+    "displayName": "Rocket Bomber",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "hoplon",
+    "hullMods": [],
+    "quality": 0.5,
+    "variantId": "hoplon_Escort",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "vulcan",
+                "WS 001": "vulcan"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "annihilator_fighter",
+                "WS 003": "annihilator_fighter"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "displayName": "Exploration",
+    "fluxCapacitors": 0,
+    "fluxVents": 6,
+    "goalVariant": true,
+    "hullId": "venture",
+    "hullMods": [
+        "armoredweapons",
+        "efficiency_overhaul",
+        "heavyarmor",
+        "insulatedengine",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "venture_Exploration",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "sabotpod",
+                "WS 005": "sabotpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 007": "breach",
+                "WS 004": "breach",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "pulselaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "flak",
+                "WS 001": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

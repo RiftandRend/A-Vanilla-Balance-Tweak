@@ -1,0 +1,33 @@
+{
+    "displayName": "Frontier",
+    "fluxCapacitors": 10,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "shepherd",
+    "hullMods": [
+        "fluxcoil",
+        "hardenedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "shepherd_Frontier",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "swarmer",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

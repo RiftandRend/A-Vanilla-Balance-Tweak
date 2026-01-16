@@ -1,0 +1,42 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 1,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "drover",
+    "hullMods": [
+        "eccm",
+        "expanded_deck_crew",
+        "missleracks",
+        "nav_relay",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "drover_Support",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "lightdualmg",
+                "WS 001": "lightdualmg",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "gazer",
+                "WS 005": "gazer",
+                "WS 002": "gazer",
+                "WS 003": "gazer",
+            }
+        },
+    ],
+    "wings": [
+        "gladius_wing",
+        "claw_wing",
+    ],
+    "modules": [],
+}

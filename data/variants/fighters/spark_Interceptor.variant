@@ -1,0 +1,21 @@
+{
+    "displayName": "Interceptor Drone",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "spark",
+    "hullMods": [
+        "pointdefenseai"
+    ],
+    "quality": 1.0,
+    "variantId": "spark_Interceptor",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pdburst"
+            }
+        }
+    ]
+}

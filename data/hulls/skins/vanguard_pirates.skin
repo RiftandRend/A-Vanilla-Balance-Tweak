@@ -1,0 +1,40 @@
+{
+	"baseHullId":"vanguard",
+	"skinHullId":"vanguard_pirates",
+	"hullName":"Vanguard (P)",
+	"descriptionId":"vanguard",
+	"descriptionPrefix":"This ship has been heavily modified - and poorly maintained - by its pirate crew.",
+	#"tags":["pirate_bp", "special_allows_system_use", "system_allows_special_use"],
+	"tags":["rare_bp", "special_allows_system_use", "system_allows_special_use"],
+	"tech":"Pirate",
+	"spriteName":"graphics/ships/vanguard/vanguard_pirate.png",
+	"removeWeaponSlots":[], 		# ids
+	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file
+	"removeBuiltInMods":["ballistic_rangefinder"], 		# hullmod ids
+	"removeBuiltInWeapons":[], 		# weapon slot ids
+	"builtInMods":["unstable_injector"],
+	"builtInWeapons":{
+    },  
+	"weaponSlotChanges":{
+		"WS 000":{
+			"type": "MISSILE",
+			"size": "SMALL"
+		},
+		"WS 001":{
+			"type": "MISSILE",
+			"size": "SMALL"
+		},
+		"WS 002":{
+			"type": "MISSILE",
+			"size": "SMALL"
+		},	
+		"WS 005":{
+			"type": "COMPOSITE",
+			"size": "SMALL"
+		},	
+		"WS 006":{
+			"type": "COMPOSITE",
+			"size": "SMALL"
+		},
+		}
+}

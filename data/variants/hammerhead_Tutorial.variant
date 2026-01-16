@@ -1,0 +1,46 @@
+{
+    "displayName": "Tutorial",
+    "fluxCapacitors": 16,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "hammerhead",
+    "hullMods": [
+        "advancedoptics",
+        "pointdefenseai",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "hammerhead_Tutorial",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "heavymg",
+                "WS 001": "heavymg",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "sabot",
+                "WS 003": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "pdlaser",
+                "WS 006": "pdlaser",
+                "WS 007": "pdlaser",
+                "WS 005": "pdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

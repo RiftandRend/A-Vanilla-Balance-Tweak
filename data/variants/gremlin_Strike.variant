@@ -1,0 +1,36 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 5,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "gremlin",
+    "hullMods": [
+        "hardened_subsystems",
+        "missile_autoloader",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "gremlin_Strike",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "lightdualac",
+                "WS 001": "lightdualac",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "reaper",
+                "WS 003": "reaper",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

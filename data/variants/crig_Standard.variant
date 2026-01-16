@@ -1,0 +1,18 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 4,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "crig",
+    "hullMods": [
+        "hiressensors",
+        "insulatedengine",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "crig_Standard",
+    "weaponGroups": [],
+    "wings": [],
+    "modules": [],
+}

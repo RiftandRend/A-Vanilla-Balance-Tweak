@@ -1,0 +1,27 @@
+{
+    "displayName": "Heavy Fighter",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "lux",
+    "hullMods": [
+        "pointdefenseai",
+	"high_scatter_amp"
+    ],
+    "quality": 1.0,
+    "variantId": "lux_Fighter",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "gravitonbeam"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": { }
+        }
+    ]
+}

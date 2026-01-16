@@ -1,0 +1,51 @@
+{
+    "displayName": "Starting",
+    "fluxCapacitors": 14,
+    "fluxVents": 9,
+    "goalVariant": false,
+    "hullId": "mule",
+    "hullMods": [
+        "eccm",
+        "efficiency_overhaul",
+        "missile_autoloader",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "mule_Starting",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "reaper",
+                "WS 001": "reaper",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "annihilatorpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "lightac",
+                "WS 004": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "vulcan",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

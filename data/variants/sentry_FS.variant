@@ -1,0 +1,34 @@
+{
+    "displayName": "Fire Support",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "sentry",
+    "hullMods": [
+        "ecm",
+        "reinforcedhull",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "sentry_FS",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "heatseeker",
+                "WS 003": "heatseeker",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "swarmer",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

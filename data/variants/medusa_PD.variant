@@ -1,0 +1,55 @@
+{
+    "displayName": "Escort",
+    "fluxCapacitors": 20,
+    "fluxVents": 5,
+    "goalVariant": true,
+    "hullId": "medusa",
+    "hullMods": [
+        "escort_package",
+        "hardenedshieldemitter",
+        "magazines",
+        "pointdefenseai",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "medusa_PD",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "irpulse",
+                "WS 003": "irpulse",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "swarmer",
+                "WS 009": "swarmer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "heavyburst",
+                "WS 007": "heavyburst",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "pdlaser",
+                "WS 005": "pdlaser",
+                "WS 001": "pdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

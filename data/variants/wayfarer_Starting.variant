@@ -1,0 +1,44 @@
+{
+    "displayName": "Starting",
+    "fluxCapacitors": 10,
+    "fluxVents": 8,
+    "goalVariant": false,
+    "hullId": "wayfarer",
+    "hullMods": [
+        "efficiency_overhaul",
+        "expanded_cargo_holds",
+        "hardenedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "wayfarer_Starting",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "ioncannon",
+                "WS 003": "ioncannon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "sabot",
+                "WS 005": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightac",
+                "WS 001": "lightac",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

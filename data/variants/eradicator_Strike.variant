@@ -1,0 +1,71 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 11,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "eradicator",
+    "hullMods": [
+        "armoredweapons",
+        "missleracks",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "eradicator_Strike",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "chaingun",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "reaper",
+                "WS 002": "reaper",
+                "WS 003": "reaper",
+                "WS 000": "reaper",
+                "WS 001": "reaper",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "lightac",
+                "WS 009": "lightac",
+                "WS 011": "lightac",
+                "WS 012": "lightac",
+                "WS 010": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "dualflak",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "heavymg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "vulcan",
+                "WS 014": "vulcan",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,39 @@
+{
+	"baseHullId":"manticore",
+	"skinHullId":"manticore_pirates",
+	"hullName":"Manticore (P)",
+	"descriptionId":"manticore",
+	"descriptionPrefix":"This ship has been heavily modified - and poorly maintained - by its pirate crew.",
+	"tags":["rare_bp"],
+	"tech":"Pirate",
+	"systemId":"flarelauncher_active",
+	"spriteName":"graphics/ships/manticore/manticore_pirate.png",
+	"removeBuiltInMods":["fluxbreakers"], 		# hullmod ids
+	"suppliesToRecover":10,
+	"suppliesPerMonth":10,
+	"builtInMods":["unstable_injector"],
+	"builtInWeapons":{
+    },    
+	"weaponSlotChanges":{
+		"WS 001":{
+			"type": "COMPOSITE",
+			"size": "SMALL"
+		},
+		"WS 002":{
+			"type": "COMPOSITE",
+			"size": "SMALL"
+		},
+		"WS 003":{
+			"type": "COMPOSITE",
+			"size": "SMALL"
+		},	
+		"WS 004":{
+			"type": "HYBRID",
+			"size": "MEDIUM"
+		},	
+		"WS 005":{
+			"type": "HYBRID",
+			"size": "MEDIUM"
+		},
+		}
+}

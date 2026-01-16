@@ -1,0 +1,49 @@
+{
+    "displayName": "Interceptor",
+    "fluxCapacitors": 9,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "heron",
+    "hullMods": [
+        "eccm",
+        "expanded_deck_crew",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "heron_Attack",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "pilum",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "harpoon",
+                "WS 003": "harpoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "lrpdlaser",
+                "WS 002": "lrpdlaser",
+                "WS 001": "lrpdlaser",
+                "WS 010": "lrpdlaser",
+            }
+        },
+    ],
+    "wings": [
+        "thunder_wing",
+        "thunder_wing",
+        "thunder_wing",
+    ],
+    "modules": [],
+}

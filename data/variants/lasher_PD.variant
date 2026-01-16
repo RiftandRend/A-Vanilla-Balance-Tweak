@@ -1,0 +1,45 @@
+{
+    "displayName": "Escort",
+    "fluxCapacitors": 10,
+    "fluxVents": 9,
+    "goalVariant": false,
+    "hullId": "lasher",
+    "hullMods": [
+        "fluxcoil",
+        "hardenedshieldemitter",
+        "pointdefenseai",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "lasher_PD",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightac",
+                "WS 003": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "swarmer",
+                "WS 001": "swarmer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "vulcan",
+                "WS 007": "vulcan",
+                "WS 005": "vulcan",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

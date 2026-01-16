@@ -1,0 +1,28 @@
+{
+    "displayName": "Torpedo Bomber",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "dagger",
+    "hullMods": [
+        "no_weapon_flux"
+    ],
+    "quality": 0.5,
+    "variantId": "dagger_Bomber",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "avbt_pdlaser_fighter"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "atropos_single"
+            }
+        }
+    ]
+}

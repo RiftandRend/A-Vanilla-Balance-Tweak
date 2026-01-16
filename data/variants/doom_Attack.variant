@@ -1,0 +1,55 @@
+{
+    "displayName": "Attack",
+    "fluxCapacitors": 12,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "doom",
+    "hullMods": [
+        "phase_anchor",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "doom_Attack",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "phasebeam",
+                "WS 007": "phasebeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "phasecl",
+                "WS 001": "phasecl",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "lightneedler",
+                "WS 004": "lightneedler",
+                "WS 005": "lightneedler",
+                "WS 003": "lightneedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "lrpdlaser",
+                "WS 011": "lrpdlaser",
+                "WS 012": "lrpdlaser",
+                "WS 010": "lrpdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

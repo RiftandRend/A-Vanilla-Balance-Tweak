@@ -1,0 +1,28 @@
+{
+    "displayName": "PD",
+    "fluxCapacitors": 1,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "defender",
+    "hullMods": [
+        "pointdefenseai",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "defender_PD",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightdualmg",
+                "WS 003": "lightdualmg",
+                "WS 001": "lightdualmg",
+                "WS 004": "lightdualmg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

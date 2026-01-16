@@ -1,0 +1,57 @@
+{
+    "displayName": "Experimental",
+    "fluxCapacitors": 49,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "ziggurat",
+    "hullMods": [
+        "autorepair",
+        "fluxbreakers",
+        "targetingunit",
+	"high_frequency_attractor"
+    ],
+    "permaMods": ["high_frequency_attractor"],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "ziggurat_Experimental",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "tachyonlance",
+                "WS 001": "tachyonlance",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 007": "amsrm",
+                "WS 010": "amsrm",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "riftlance",
+                "WS 009": "riftlance",
+                "WS 006": "riftlance",
+                "WS 011": "riftlance",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "heavyneedler",
+                "WS 005": "heavyneedler",
+                "WS 002": "heavyneedler",
+                "WS 003": "heavyneedler",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

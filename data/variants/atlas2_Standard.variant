@@ -1,0 +1,64 @@
+{
+    "displayName": "Combat",
+    "fluxCapacitors": 0,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "atlas2",
+    "hullMods": [
+        "eccm",
+        "fluxdistributor",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "atlas2_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "hurricane",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 012": "squall",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "gauss",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "lightmg",
+                "WS 018": "lightmg",
+                "WS 015": "lightmg",
+                "WS 002": "lightmg",
+                "WS 014": "lightmg",
+                "WS 011": "lightmg",
+                "WS 001": "lightmg",
+                "WS 020": "lightmg",
+                "WS 021": "lightmg",
+                "WS 010": "lightmg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

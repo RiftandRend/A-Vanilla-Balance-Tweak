@@ -1,0 +1,24 @@
+{
+    "displayName": "Support Fighter",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "sarissa",
+    "hullMods": [
+        "autorepair",
+        "insulatedengine",
+        "pointdefenseai"
+    ],
+    "quality": 0.5,
+    "variantId": "sarissa_Fighter",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "lightac",
+                "WS 001": "lightac"
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 0,
+    "fluxVents": 1,
+    "goalVariant": true,
+    "hullId": "picket",
+    "hullMods": [
+        "fluxbreakers",
+        "heavyarmor",
+        "insulatedengine",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "picket_Assault",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightdualmg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "swarmer",
+                "WS 001": "swarmer",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

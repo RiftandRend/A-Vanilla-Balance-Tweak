@@ -1,0 +1,71 @@
+{
+    "displayName": "Attack",
+    "fluxCapacitors": 4,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "eradicator_pirates",
+    "hullMods": [
+        "armoredweapons",
+        "missleracks",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "eradicator_pirates_Attack",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "chaingun",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "annihilator",
+                "WS 003": "annihilator",
+                "WS 000": "annihilator",
+                "WS 001": "annihilator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "lightac",
+                "WS 009": "lightac",
+                "WS 011": "lightac",
+                "WS 012": "lightac",
+                "WS 010": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "swarmer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "heavymg",
+                "WS 005": "heavymg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "vulcan",
+                "WS 014": "vulcan",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

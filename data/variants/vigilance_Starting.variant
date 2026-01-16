@@ -1,0 +1,36 @@
+{
+    "displayName": "Starting",
+    "fluxCapacitors": 10,
+    "fluxVents": 9,
+    "goalVariant": false,
+    "hullId": "vigilance",
+    "hullMods": [
+        "efficiency_overhaul",
+        "hardenedshieldemitter",
+        "missleracks"
+    ],
+    "variantId": "vigilance_Starting",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pulselaser"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "harpoonpod"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "swarmer"
+            }
+        }
+    ]
+}

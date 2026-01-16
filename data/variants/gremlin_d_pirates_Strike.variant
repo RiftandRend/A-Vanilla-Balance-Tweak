@@ -1,0 +1,36 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 9,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "gremlin_d_pirates",
+    "hullMods": [
+        "eccm",
+        "missile_autoloader",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "gremlin_d_pirates_Strike",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "lightac",
+                "WS 001": "lightac",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "hammer",
+                "WS 003": "hammer",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,92 @@
+{
+    "hullName": "Remnant Weapon Platform",
+    "hullId": "remnant_weapon_platform2",
+    "hullSize": "FRIGATE",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/ships/remnants/remnant_weapon_platform2.png",
+    "height": 108,
+    "width": 164,
+    "center": [
+        82, 35
+    ],
+    "collisionRadius": 120,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 115,
+    "viewOffset": 0,
+    "builtInMods": [
+        "supercomputer",
+        "reduced_explosion"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 002",
+            "size": "LARGE",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 110,
+            "angle": 0,
+            "locations": [
+                      30,      -18
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "MEDIUM",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 120,
+            "angle": 0,
+            "locations": [
+                      14,       48
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "MEDIUM",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 120,
+            "angle": 0,
+            "locations": [
+                      14,      -48
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 120,
+            "angle": 0,
+            "locations": [
+                      41,       45
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 120,
+            "angle": 0,
+            "locations": [
+                      41,      -45
+            ]
+        }
+    ],
+    "engineSlots": [],
+    "bounds": [
+              19,       81,
+              60,       53,
+              60,      -53,
+              21,      -81,
+              -7,      -57,
+        
+              -7,       56
+    ]
+}

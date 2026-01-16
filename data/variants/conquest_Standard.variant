@@ -1,0 +1,74 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 0,
+    "fluxVents": 25,
+    "goalVariant": true,
+    "hullId": "conquest",
+    "hullMods": [
+        "eccm",
+        "hardenedshieldemitter",
+        "missleracks",
+        "pointdefenseai",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "conquest_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "squall",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 019": "harpoonpod",
+                "WS 020": "harpoonpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "hephag",
+                "WS 011": "hephag",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 014": "mark9",
+                "WS 012": "mark9",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "pdlaser",
+                "WS 009": "pdburst",
+                "WS 017": "hveldriver",
+                "WS 006": "pdlaser",
+                "WS 018": "hveldriver",
+                "WS 007": "pdlaser",
+                "WS 015": "hveldriver",
+                "WS 004": "pdlaser",
+                "WS 016": "hveldriver",
+                "WS 005": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 022": "heavyburst",
+                "WS 001": "locust",
+                "WS 023": "heavyburst",
+                "WS 010": "pdburst",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

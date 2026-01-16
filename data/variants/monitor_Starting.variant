@@ -1,0 +1,42 @@
+{
+    "displayName": "Starting",
+    "fluxCapacitors": 0,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "monitor",
+    "hullMods": [
+        "efficiency_overhaul",
+        "extendedshieldemitter",
+        "hardenedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "monitor_Starting",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "ioncannon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "flak",
+                "WS 001": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

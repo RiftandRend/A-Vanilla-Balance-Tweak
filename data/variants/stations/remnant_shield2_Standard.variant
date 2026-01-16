@@ -1,0 +1,32 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "remnant_shield2",
+    "hullMods": [
+        "advancedoptics",
+        "advancedshieldemitter",
+        "autorepair",
+        "fluxbreakers",
+        "magazines",
+        "pointdefenseai",
+        "turretgyros",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "remnant_shield2_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "guardian",
+                "WS 001": "guardian",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

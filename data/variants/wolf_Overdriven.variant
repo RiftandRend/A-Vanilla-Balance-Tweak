@@ -1,0 +1,41 @@
+{
+    "displayName": "Overdriven",
+    "fluxCapacitors": 10,
+    "fluxVents": 2,
+    "goalVariant": true,
+    "hullId": "wolf",
+    "hullMods": [
+        "hardened_subsystems",
+        "safetyoverrides",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "wolf_Overdriven",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "ionpulser",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "sabot",
+                "WS 005": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "irpulse",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

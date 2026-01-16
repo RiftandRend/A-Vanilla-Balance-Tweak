@@ -1,0 +1,54 @@
+{
+    "displayName": "Fighter Support",
+    "fluxCapacitors": 1,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "enforcer",
+    "hullMods": [
+        "converted_hangar",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "enforcer_Fighter_Support",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "arbalest",
+                "WS 002": "arbalest",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "sabot",
+                "WS 009": "sabot",
+                "WS 006": "sabot",
+                "WS 007": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "flak",
+                "WS 001": "flak",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "shredder",
+            }
+        },
+    ],
+    "wings": [
+        "warthog_wing",
+    ],
+    "modules": [],
+}

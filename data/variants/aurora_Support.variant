@@ -1,0 +1,66 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 14,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "aurora",
+    "hullMods": [
+        "converted_hangar",
+        "defensive_targeting_array",
+        "hardenedshieldemitter",
+        "missleracks",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "aurora_Support",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 009": "harpoonpod",
+                "WS 006": "harpoonpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 010": "annihilator",
+                "WS 011": "annihilator",
+                "WS 012": "annihilator",
+                "WS 013": "annihilator",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "atropos",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "pulselaser",
+                "WS 008": "pulselaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "taclaser",
+                "WS 004": "taclaser",
+                "WS 005": "taclaser",
+            }
+        },
+    ],
+    "wings": [
+        "xyphos_wing",
+    ],
+    "modules": [],
+}

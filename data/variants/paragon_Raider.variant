@@ -1,0 +1,75 @@
+{
+    "displayName": "Fire Support",
+    "fluxCapacitors": 7,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "paragon",
+    "hullMods": [
+        "eccm",
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "missile_autoloader",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "paragon_Raider",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "tachyonlance",
+                "WS 003": "tachyonlance",
+                "WS 002": "tachyonlance",
+                "WS 001": "tachyonlance",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "harpoonpod",
+                "WS 007": "harpoonpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 018": "sabot",
+                "WS 014": "sabot",
+                "WS 012": "sabot",
+                "WS 020": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "taclaser",
+                "WS 006": "gravitonbeam",
+                "WS 005": "gravitonbeam",
+                "WS 016": "taclaser",
+                "WS 013": "taclaser",
+                "WS 022": "taclaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "irpulse",
+                "WS 010": "ioncannon",
+                "WS 015": "swarmer",
+                "WS 021": "swarmer",
+                "WS 011": "ioncannon",
+                "WS 017": "irpulse",
+                "WS 023": "pdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

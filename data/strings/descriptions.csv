@@ -1,0 +1,80 @@
+id,type,text1,text2,text3,text4,text5,notes
+clusterbomb,WEAPON,"Launches a cluster of proximity fused unguided bomblets. Most effective against unshielded targets at short range. Due to its simple ammunition feed system, the projector and integrated autoloader can be installed in most mounts intended for ballistic or missile weapons.
+
+A Cluster Bomb projector is equipped with three tubes designed to fire dozens of Mark II Explosively Formed Penetrator bomblets. The bomblets are unguided and have no propulsion system, relying on the initial momentum of the strike craft to engage the target. They are equipped with a friend-or-foe targeting scanner, and will only detonate when impacting an appropriate target. The shaped charge explosive is highly effective versus unshielded targets. The sheer number of bomblets that can be deployed by this weapon system is staggering, and as such it makes the Cluster Bomb a useful area denial weapon.",,,,,
+shredder,WEAPON,"A rotary cannon generously engineered to provide for great ease of operation and reliability. Weapons officers across the professional navies of the Persean Sector, meanwhile, curse the Thumper for rewarding poor maintenance habits. Highly effective against exposed hull and incoming ordnance, but can be overwhelmed by massed strikes.
+
+Shreds enemy missiles and fighters with an overwhelming hail of small payload, medium velocity fragmentation rounds. Although flux-efficient, this weapon system has little effect against armor and shields.",,,,,
+chaingun,WEAPON,"The GA-X Industries Mk. II chaingun unleashes an hail of medium range explosive rounds at a high flux cost. Excels in close-range engagments, where its exceptional damage output outweighs its poor accuracy.
+
+A 'melee' captain's favorite tool, the Assault Chaingun delivers high-explosive shaped charge rounds on target at a fearsome rate. Features powered feed and ejector systems and an advanced nano-cooling unit built right into the barrel. 
+
+The only drawback is a heavier turret profile which, coupled with the lack of the accompanying governor blueprint, is typically mounted on incompatible rotators giving rise to unexpectedly low turret rotation speeds.",,,,,
+heavymauler,WEAPON,"An advanced weapon system designed to punch through armor plating at long-range. Has a low sustained rate of fire but high per-burst damage. Fitted with a fire-control system that prevents firing at shielded targets.
+
+The heavy mauler is a brutal weapon designed to engage targets at medium to long-range. At its core, the weapon is an autocannon with a nano-cooling system and an external ejection port. However, unlike normal autocannons, the heavy mauler is distinguished by an antimatter barrel charger fed by trivial amounts of standard starship fuel.
+
+When leaving the firing chamber, each shell ogive is charged with a field of antiprotons which hover 10-20 nanometers to the fore of the shell, stabilized by a baryon coating. On impact with a target, this antiproton ""sheath"" loses structural integrity and the resulting reaction does further damage. Given the fact that shells already deliver impressive destructive force to the target, the combined reaction makes the heavy mauler particularly effective versus armored targets.",,,,,
+gauss,WEAPON,"A long-range electromagnetic accelerator firing bursts of heavy kinetic slugs. A long recharging time and slow turret traverse limit its ability to engage small or rapidly manuvering targets.
+
+Uses magnetic coils to accelerate a large ultra-dense composite slug to relativistic speeds. Usually rated at the hundreds of giga-amperes range, rarely exceeding one tera-ampere. And unlike most ballistic weapons, has a very high flux load when fired. Turrets mounted with this system have an extremely poor turn rate. 
+
+Very effective weapon whose usefulness is limited by the low reactor power of ships that typically feature large ballistic weapon mounts. ",,,,,
+swarmer,WEAPON,"Combining a reliable guidence system and proximity warhead, the Swarmer effectively engages missiles and fighters at short range. Near continious fire is sustained by an integrated autoloader. Effective against light ship armor, but easily stopped by point defense.
+
+Launches bursts of small missiles. A simple infrared system provides effective tracking while chemical microthrusters provide exceptional maneuverability. Evolutionary targeting algorithms honed over centuries of real-world application allow the missiles to lead the target - they rarely miss and are very hard to avoid.",,,,,
+swarmer_fighter,WEAPON,"Combining a reliable guidence system and proximity warhead, the Swarmer effectively engages missiles and fighters at short range. A miniturized autoloader allows reloading in-flight, though sustained preformance is poor. 
+",,,,,
+phasecl,WEAPON,"Launches low-velocity proximity charges with an massive blast radius and ability to shrug off point-defense fire. Internal phase coils are charged before launch, imposing a moderate flux load on the firing ship. Especially devastating against fighters and massed ordnance, but also effective vs poorly protected targets. Integrated loader periodically draws charges from magazines deep withing the hull.",,,,,
+phasecl_bomber,WEAPON,Deploys low-velocity proximity charges with an impressive blast radius. Devastating against fighters and unprotected targets.,,,,,
+mininglaser,WEAPON,"Cheap utility laser hardwired for missile and fighter defense. Long-ranged, but hampered by its low power output. Somewhat effective against lightly armored targets, due to its legacy as a mining tool.
+
+A Mk I mining laser features a fluoride gas gain medium refitted for combat. The micro-asteroid targeting package has been repurposed to track and target incoming missiles. Mostly useless for anything larger or heavily armored targets. Has a built-in 670nm tracker beam.",,,,,
+pdlaser,WEAPON,"Small laser designed for missile and fighter defense, with great tracking capability, decent damage and short range. Effective against missiles, fighters, and ship armor.
+
+Simplicity, reliability and low flux costs characterize this ubiquitous point-defense weapon. The laser is built around a carbon dioxide gain medium combined with a short range marker beam. A simple one stage lens assembly with no moving parts permits the weapon to operate for extended periods without maintenance procedures. Low damage has prompted the creation of the ""Pray [it's a] Dud"" Laser backronym.",,,,,
+lrpdlaser,WEAPON,"Point defense Laser-Coupled Particle Beam, delivering light energy damage at long range. Precise particle steering safely enables firing over friendly ships, allowing many ships to overlap defensive fire. The beam delivers minor EMP damage, disabling fragile systems with prolonged fire. Most effective withen used en masse to offset low damage output.
+
+
+An additional lens assembly eliminates self-diffusing particles from a standard carbon dioxide beam fired at a wavelength of eleven microns. The extended range permits the otherwise low wattage to have a greater impact on the targets. Particularly useful in destroying missiles headed for a shielded target - a standard point defense laser generally doesn't have the range to extend far enough past the defensive shields of the ship it is supposed to protect.",,,,,
+phasebeam,WEAPON,"A medium-range, short-duration beam that causes heavy damage in a burst. Effective against ship armor, fighters, and stressed shields.
+
+This weapon is, at base, simply a laser beam with a tripled sapphire gain medium to ensure the highest possible weaponized wavelengths. The photons are fired through a hyperdimensional filter which outputs an energy beam that exists partially in p-space. The physics of the filter are not properly understood, and in laboratory settings the p-space components of a beam exceeding 6.66 giga-watts will sometimes flicker - as if blocked. Weapon mounts never use such high energy levels to ensure reliability.",,,,,
+warthog,SHIP,"Boasting superb armor and impressive firepower, the Warthog one of the few fighters able to directly engage warships. Poor agility and lack of standard decoy flares limit its effectiveness when deployed alone.",,,,,
+talon,SHIP,"Fast and cheap, the Talon sports surprising firepower and is capable of dispatching enemy fighters and ordnance. It can also deal appreciable damage to larger ships when used en masse, though such use usually results in heavy pilot losses.",,,,,
+flash,SHIP,"An autonomous AI fighter-bomber, the Flash carries an advanced phase proximity charge payload which employs the principles of the phase cloak to destructive ends. The barrage of proximity charges easily clears a path through escorts and point defense, but struggles to defeat hardened targets without support.",,,,,
+devastator,WEAPON,"Essentially a rapid-fire capital-sized flak cannon, the Devastator was developed by the Domain Armada using generic parts in response to a rebellious world which managed to acquire an extensive set of fighter LPCs. Highly effective against massed targets, the long reload between bursts presents an opening for enemy ordnance if unsupported.
+
+Three barrels launch a rapid barrage of explosive projectiles. The rapid rate of fire produces such a volume of munitions that the proximity detectors become somewhat unreliable, setting themselves off at seemingly random range. The margin of error was deemed acceptable after spectacular field results.
+
+A single salvo from the Devastator can eliminate a fighter wing or flight of missiles, though the shells are of only limited use against larger or more distant targets.",,,,,
+gazer,WEAPON,"The Gazer DEM fills a previously empty niche, offering ships with missile mounts a long range anti-shield option. After a close encounter to gain appropriate targeting data, a Gazer withdraws to a standoff distance and fires a specialized Graviton Beam for an extended duration. Firerate declines in extended engagements due to an undersized autoloader, somewhat ofset by the missiles' durability and tricky attack profile.
+
+Reception of the Gazer is as split: some commanders consider this an elegant weapon from a more civilized age, others, a design which compromises raw firepower for finicky guidance and targeting systems.",,,,,
+gazerpod,WEAPON,"The Gazer DEM fills a previously empty niche, offering ships with missile mounts a long range anti-shield option. After a close encounter to gain appropriate targeting data, a Gazer withdraws to a standoff distance and fires a specialized Graviton Beam for an extended duration. Firerate declines in extended engagements due to an undersized autoloader, somewhat ofset by the missiles' durability and tricky attack profile.
+
+Reception of the Gazer is as split: some commanders consider this an elegant weapon from a more civilized age, others, a design which compromises raw firepower for finicky guidance and targeting systems.",,,,,
+squall,WEAPON,"Medium-range anti-shield missile system. The Squall fires a rapid salvo of capacitive missiles which discharge when striking their target, disrupting shields and shipboard electronics alike. The missile's extreme speed makes them difficult targets for most point defence, though their effect against armor is negligible. Unlike most missile systems, the Squall's projetiles must be charged by the ship's reactor at significant flux cost.
+
+Anti-shield missiles intended to be used in the opening round of a combat encounter to disable the shields of an unwary opponent, opening up an opportunity for high-damage anti-armor projectiles to be deployed in the immediate aftermath of the Squall salvo.
+
+Interchangeable missile pods were designed to allow for ease of rapid reloading of the impressive 20-shot Squall salvo, but the high mass of the pods and finicky mechanicals of the missile autoloaders make the process unwieldy and the timing falls somewhat below the original Domain Armada specifications. Nonetheless, the Squall is a terrifying weapon system when deployed against shield-reliant combatants as it forces a captain with insufficient point defense system to deactivate their shields or submit to high shield flux which may lead to overload. ",,,,,
+locust,WEAPON,"Build around a specialized forge unit, the Locust rapidly assembles and launches SRMs equipped with a similar guidence system to the common Swarmer. The barrage easily overwhelmes fighters and ordnance, but has limited effect against large warships unless armor and shields are breached. Missile assembly pauses intermittently, as feed material is drawn from internal stockpiles.
+
+The Locust launches bursts of thirty small missiles per salvo. Robust, low-power individual tracking systems are coordinated by a distributed swarm intelligence system to enable excellent tracking of targets, while chemical microthrusters provide maneuverability for a short time. Tried and true targeting algorithms based on the old standby Swarmer missile systems allow Locusts to miss only rarely. The Locust has rightly earned a place in the nightmares of fighter pilots.",,,,,
+lux,SHIP,"An autonomous AI heavy fighter, the Lux is armed with an overcharged Graviton Beam and a flare system designed to confuse opposing point defense systems. Best used to open a path for strikes against heavy targets and to suppress the shields of smaller ships.",,,,,
+vulcan,WEAPON,"A rapid fire ballistic point-defense weapon system especially devastating to missiles and fighters at short range. The extreme cyclic rate gives slightly charges each projectile, giving the weapon a mild EMP effect. Accuracy degrades sharply during prolonged bursts of fire. 
+
+This multi-barrel weapon platform is built around an advanced timing mechanism most commonly manufactured by Hegemony-authorized nanoforges. Rounds are typically tipped with depleted uranium and are non explosive. Multiple barrels enable an extremely high rate of fire, though at a high flux cost.",,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

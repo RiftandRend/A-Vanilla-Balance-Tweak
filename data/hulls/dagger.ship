@@ -1,0 +1,78 @@
+{
+    "hullName": "Dagger",
+    "hullId": "dagger",
+    "hullSize": "FIGHTER",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/ships/dagger_trp.png",
+    "height": 34,
+    "width": 26,
+    "center": [
+        15, 16
+    ],
+    "collisionRadius": 39,
+    "coversColor": "",
+    "shieldCenter": [
+        4, 0
+    ],
+    "shieldRadius": 35,
+    "viewOffset": 0,
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "HIDDEN",
+            "arc": 300,
+            "angle": 0,
+            "locations": [
+                     5.5,     10.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "MISSILE",
+            "mount": "HIDDEN",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                       7,        0
+            ]
+        },
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "HIDDEN",
+            "arc": 5,
+            "angle": 180,
+            "locations": [
+                       4,     10.5
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -13, 0
+            ],
+            "length": 40,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+               8,       14,
+              19,        0,
+               6,       -9,
+              -2,       -4,
+             -12,       -5,
+        
+             -11,        5,
+               0,        5
+    ]
+}

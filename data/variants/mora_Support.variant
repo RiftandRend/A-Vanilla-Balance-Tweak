@@ -1,0 +1,59 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 2,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "mora",
+    "hullMods": [
+        "armoredweapons",
+        "ballistic_rangefinder",
+        "expanded_deck_crew",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "mora_Support",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "heavymauler",
+                "WS 003": "heavymauler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "swarmer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "lightac",
+                "WS 005": "lightac",
+                "WS 013": "lightac",
+                "WS 012": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "vulcan",
+                "WS 014": "vulcan",
+                "WS 011": "vulcan",
+            }
+        },
+    ],
+    "wings": [
+        "gladius_wing",
+        "gladius_wing",
+        "gladius_wing",
+    ],
+    "modules": [],
+}

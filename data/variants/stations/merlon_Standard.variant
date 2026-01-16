@@ -1,0 +1,35 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "merlon",
+    "hullMods": [
+        "turretgyros",
+        "pointdefenseai",
+        "fluxbreakers",
+        "armoredweapons",
+        "autorepair"
+    ],
+    "quality": 0.5,
+    "variantId": "merlon_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "dualflak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightdualac",
+                "WS 003": "lightdualac",
+                "WS 004": "lightdualac",
+                "WS 002": "lightdualac"
+            }
+        }
+    ]
+}

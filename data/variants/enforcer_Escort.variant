@@ -1,0 +1,53 @@
+{
+    "displayName": "Escort",
+    "fluxCapacitors": 7,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "enforcer",
+    "hullMods": [
+        "eccm",
+        "missleracks",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "enforcer_Escort",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "heavyac",
+                "WS 002": "heavyac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "swarmer",
+                "WS 009": "swarmer",
+                "WS 006": "swarmer",
+                "WS 007": "swarmer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "flak",
+                "WS 001": "flak",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "shredder",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

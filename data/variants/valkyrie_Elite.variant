@@ -1,0 +1,30 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 20,
+    "fluxVents": 4,
+    "goalVariant": true,
+    "hullId": "valkyrie",
+    "hullMods": [
+        "adaptiveshields",
+        "fluxcoil",
+        "hardenedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "valkyrie_Elite",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "lightmg",
+                "WS 002": "lightmg",
+                "WS 003": "lightmg",
+                "WS 001": "lightmg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

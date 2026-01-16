@@ -1,0 +1,35 @@
+{
+    "displayName": "Starting",
+    "fluxCapacitors": 2,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "shepherd",
+    "hullMods": [
+        "eccm",
+        "efficiency_overhaul",
+        "hardened_subsystems",
+        "hiressensors",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "shepherd_Starting",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "swarmer",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

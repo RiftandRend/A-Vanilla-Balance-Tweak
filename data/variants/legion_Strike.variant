@@ -1,0 +1,64 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 11,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "legion",
+    "hullMods": [
+        "dedicated_targeting_core",
+        "heavyarmor",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "legion_Strike",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "mark9",
+                "WS 001": "mark9",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 007": "sabotpod",
+                "WS 004": "sabotpod",
+                "WS 002": "sabotpod",
+                "WS 003": "sabotpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "lightmg",
+                "WS 019": "lightmg",
+                "WS 009": "lightmg",
+                "WS 018": "lightmg",
+                "WS 015": "lightmg",
+                "WS 014": "lightmg",
+                "WS 020": "lightmg",
+                "WS 021": "lightmg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "dualflak",
+            }
+        },
+    ],
+    "wings": [
+        "piranha_wing",
+        "piranha_wing",
+        "piranha_wing",
+        "piranha_wing",
+    ],
+    "modules": [],
+}

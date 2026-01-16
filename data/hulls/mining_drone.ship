@@ -1,0 +1,62 @@
+{
+    "hullName": "Mining Drone",
+    "hullId": "mining_drone",
+    "hullSize": "FIGHTER",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/fighters/mining_drone_lowtech.png",
+    "height": 27,
+    "width": 32,
+    "center": [
+        16, 12
+    ],
+    "collisionRadius": 24,
+    "coversColor": "",
+    "shieldCenter": [
+        1, 0
+    ],
+    "shieldRadius": 24,
+    "viewOffset": 0,
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 270,
+            "angle": 0,
+            "locations": [
+                       3,       -6
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -11, 9
+            ],
+            "length": 24,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -11, -9
+            ],
+            "length": 24,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "LOW_TECH"
+        }
+    ],
+    "bounds": [
+              14,       12,
+              -9,       15,
+              -8,      -13,
+               9,      -10
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "displayName": "Close Support",
+    "fluxCapacitors": 16,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "sunder_LG",
+    "hullMods": [
+        "advancedoptics",
+        "escort_package",
+        "hardenedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "sunder_LG_CS",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "gravitonbeam",
+                "WS 002": "gravitonbeam",
+                "WS 003": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "taclaser",
+                "WS 001": "taclaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "taclaser",
+                "WS 007": "taclaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

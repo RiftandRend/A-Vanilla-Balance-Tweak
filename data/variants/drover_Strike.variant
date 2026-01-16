@@ -1,0 +1,41 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "drover",
+    "hullMods": [
+        "eccm",
+        "expanded_deck_crew",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "drover_Strike",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "vulcan",
+                "WS 001": "vulcan",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "harpoon",
+                "WS 005": "harpoon",
+                "WS 002": "harpoon",
+                "WS 003": "harpoon",
+            }
+        },
+    ],
+    "wings": [
+        "broadsword_wing",
+        "dagger_wing",
+    ],
+    "modules": [],
+}

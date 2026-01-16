@@ -1,0 +1,34 @@
+{
+    "displayName": "EW",
+    "fluxCapacitors": 10,
+    "fluxVents": 2,
+    "goalVariant": true,
+    "hullId": "omen",
+    "hullMods": [
+        "hardened_subsystems",
+        "hardenedshieldemitter",
+        "missile_autoloader",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "omen_PD",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "amblaster",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "reaper",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

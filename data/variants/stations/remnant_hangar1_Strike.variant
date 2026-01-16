@@ -1,0 +1,42 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "remnant_hangar1",
+    "hullMods": [
+        "armoredweapons",
+        "autorepair",
+        "expanded_deck_crew",
+        "fluxbreakers",
+        "turretgyros",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "remnant_hangar1_Strike",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "phasebeam",
+                "WS 001": "phasebeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "ioncannon",
+                "WS 005": "ioncannon",
+            }
+        },
+    ],
+    "wings": [
+        "flash_wing",
+        "lux_wing",
+        "lux_wing",
+    ],
+    "modules": [],
+}

@@ -1,0 +1,43 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 1,
+    "fluxVents": 20,
+    "goalVariant": true,
+    "hullId": "bastillon",
+    "hullMods": [
+        "armoredweapons",
+        "ballistic_rangefinder",
+        "fluxbreakers",
+        "pointdefenseai",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "bastillon_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "lightac",
+                "WS 006": "lightac",
+                "WS 007": "lightac",
+                "WS 005": "lightac",
+                "WS 002": "lightac",
+                "WS 001": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "lightmg",
+                "WS 004": "lightmg",
+                "WS 014": "lightmg",
+                "WS 003": "lightmg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

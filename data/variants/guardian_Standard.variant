@@ -1,0 +1,76 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 39,
+    "fluxVents": 50,
+    "goalVariant": false,
+    "hullId": "guardian",
+    "hullMods": [
+        "armoredweapons",
+        "autorepair",
+        "fluxbreakers",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "insulatedengine",
+        "pointdefenseai",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "guardian_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "mjolnir",
+                "WS 007": "mjolnir",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "sabotpod",
+                "WS 010": "sabotpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "lightneedler",
+                "WS 018": "lightneedler",
+                "WS 013": "lightneedler",
+                "WS 012": "lightneedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "irpulse",
+                "WS 015": "irpulse",
+                "WS 016": "irpulse",
+                "WS 014": "irpulse",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "locust",
+                "WS 009": "locust",
+                "WS 020": "guardian",
+                "WS 000": "flak",
+                "WS 001": "flak",
+                "WS 002": "flak",
+                "WS 003": "flak",
+                "WS 004": "dualflak",
+                "WS 005": "dualflak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

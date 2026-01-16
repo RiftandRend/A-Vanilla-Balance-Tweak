@@ -1,0 +1,58 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "module_midline_support",
+    "hullMods": [
+        "advancedshieldemitter",
+        "armoredweapons",
+        "autorepair",
+        "eccm",
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "pointdefenseai",
+        "turretgyros",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "module_midline_support_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "harpoonpod",
+                "WS 003": "harpoonpod",
+                "WS 000": "harpoonpod",
+                "WS 001": "harpoonpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "sabot",
+                "WS 009": "sabot",
+                "WS 004": "sabot",
+                "WS 005": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "lightneedler",
+                "WS 007": "lightneedler",
+            }
+        },
+    ],
+    "wings": [
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+        "broadsword_wing",
+    ],
+    "modules": [],
+}

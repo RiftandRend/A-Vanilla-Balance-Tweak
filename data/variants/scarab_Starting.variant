@@ -1,0 +1,51 @@
+{
+    "displayName": "Starting",
+    "fluxCapacitors": 10,
+    "fluxVents": 9,
+    "goalVariant": false,
+    "hullId": "scarab",
+    "hullMods": [
+        "efficiency_overhaul",
+        "hardened_subsystems",
+        "hardenedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "scarab_Starting",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "irpulse",
+                "WS 010": "irpulse",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "reaper",
+                "WS 003": "reaper",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "ioncannon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "pdlaser",
+                "WS 009": "pdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

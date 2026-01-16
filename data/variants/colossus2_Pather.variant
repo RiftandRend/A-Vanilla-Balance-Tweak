@@ -1,0 +1,55 @@
+{
+    "displayName": "Pather",
+    "fluxCapacitors": 7,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "colossus2",
+    "hullMods": [
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "colossus2_Pather",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "hammerrack",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 015": "hammer",
+                "WS 016": "hammer",
+                "WS 013": "hammer",
+                "WS 014": "hammer",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "sabot",
+                "WS 001": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "lightmg",
+                "WS 004": "lightmg",
+                "WS 002": "lightmg",
+                "WS 011": "lightmg",
+                "WS 012": "lightmg",
+                "WS 010": "lightmg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

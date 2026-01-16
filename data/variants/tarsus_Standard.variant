@@ -1,0 +1,28 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 20,
+    "fluxVents": 2,
+    "goalVariant": true,
+    "hullId": "tarsus",
+    "hullMods": [
+        "hardenedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "tarsus_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightmg",
+                "WS 003": "lightmg",
+                "WS 001": "lightmg",
+                "WS 004": "lightmg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

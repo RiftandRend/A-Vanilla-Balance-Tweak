@@ -1,0 +1,67 @@
+{
+    "displayName": "Fighter Support",
+    "fluxCapacitors": 21,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "eradicator",
+    "hullMods": [
+        "converted_hangar",
+        "defensive_targeting_array",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "eradicator_Fighter_Support",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "arbalest",
+                "WS 005": "arbalest",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "hammer",
+                "WS 002": "hammer",
+                "WS 003": "hammer",
+                "WS 000": "hammer",
+                "WS 001": "hammer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "lightac",
+                "WS 010": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "shredder",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "lightmg",
+                "WS 009": "lightdualmg",
+                "WS 013": "lightmg",
+                "WS 014": "lightmg",
+                "WS 012": "lightmg",
+            }
+        },
+    ],
+    "wings": [
+        "perdition_wing",
+    ],
+    "modules": [],
+}

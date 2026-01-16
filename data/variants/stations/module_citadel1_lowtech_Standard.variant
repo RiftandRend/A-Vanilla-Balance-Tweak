@@ -1,0 +1,72 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "module_citadel1_lowtech",
+    "hullMods": [
+        "advancedshieldemitter",
+        "armoredweapons",
+        "autorepair",
+        "eccm",
+        "fluxbreakers",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "module_citadel1_lowtech_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "hephag",
+                "WS 016": "hephag",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 009": "harpoonpod",
+                "WS 006": "harpoonpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "lightdualac",
+                "WS 007": "lightdualac",
+                "WS 002": "lightdualac",
+                "WS 012": "lightdualac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "hveldriver",
+                "WS 010": "hveldriver",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 014": "devastator",
+                "WS 001": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "dualflak",
+                "WS 000": "dualflak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

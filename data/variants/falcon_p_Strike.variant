@@ -1,0 +1,61 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 24,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "falcon_p",
+    "hullMods": [
+        "converted_hangar",
+        "defensive_targeting_array",
+        "eccm",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "falcon_p_Strike",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "annihilatorpod",
+                "WS 007": "annihilatorpod",
+                "WS 008": "annihilatorpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "harpoon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "sabot",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "phasecl",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "pdlaser",
+                "WS 010": "pdlaser",
+            }
+        },
+    ],
+    "wings": [
+        "talon_wing",
+    ],
+    "modules": [],
+}

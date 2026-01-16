@@ -1,0 +1,70 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 28,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "aurora",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "magazines",
+        "missleracks",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "aurora_Strike",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "amblaster",
+                "WS 005": "amblaster",
+                "WS 003": "amblaster",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "sabotpod",
+                "WS 006": "sabotpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 013": "reaper",
+                "WS 011": "reaper",
+                "WS 012": "reaper",
+                "WS 010": "reaper",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "ionpulser",
+                "WS 007": "ionpulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "swarmer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,32 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 10,
+    "fluxVents": 4,
+    "goalVariant": false,
+    "hullId": "brawler_LG",
+    "hullMods": [],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "brawler_LG_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "phasebeam",
+                "WS 001": "phasebeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "lightneedler",
+                "WS 004": "lightneedler",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

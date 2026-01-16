@@ -1,0 +1,88 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 25,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "onslaught",
+    "hullMods": [
+        "armoredweapons",
+        "fluxdistributor",
+        "heavyarmor",
+        "magazines",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "onslaught_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "tpc",
+                "WS 016": "tpc",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 024": "typhoon",
+                "WS 022": "typhoon",
+                "WS 023": "typhoon",
+                "WS 021": "typhoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "multineedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "hveldriver",
+                "WS 001": "hveldriver",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 018": "devastator",
+                "WS 020": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "vulcan",
+                "WS 014": "vulcan",
+                "WS 008": "vulcan",
+                "WS 009": "vulcan",
+                "WS 006": "vulcan",
+                "WS 004": "vulcan",
+                "WS 005": "vulcan",
+                "WS 002": "vulcan",
+                "WS 013": "flak",
+                "WS 011": "flak",
+                "WS 012": "flak",
+                "WS 010": "flak",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "shredder",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

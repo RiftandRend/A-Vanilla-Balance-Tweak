@@ -1,0 +1,186 @@
+{
+    "hullName": "Ravelin",
+    "hullId": "ravelin",
+    "hullSize": "FIGHTER",
+    "style": "MIDLINE",
+    "spriteName": "graphics/ships/stations/ravelin2.png",
+    "height": 120,
+    "width": 120,
+    "center": [
+        60, 59
+    ],
+    "collisionRadius": 82,
+    "coversColor": "",
+    "shieldCenter": [
+        1, 0
+    ],
+    "shieldRadius": 80,
+    "viewOffset": 0,
+    "builtInMods": [
+        "supercomputer",
+        "missile_reload"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "MISSILE",
+            "mount": "HARDPOINT",
+            "arc": 10,
+            "angle": 0,
+            "locations": [
+                      50,        0
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 220,
+            "angle": 0,
+            "locations": [
+                      18,        0
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 160,
+            "angle": 45,
+            "locations": [
+                     -14,       45
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 160,
+            "angle": -45,
+            "locations": [
+                     -13,      -45
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "MEDIUM",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 25,
+            "locations": [
+                     -10,       20
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "MEDIUM",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": -25,
+            "locations": [
+                     -10,      -20
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": 30,
+            "locations": [
+                      22,       28
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": -30,
+            "locations": [
+                      22,      -28
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -36, 20
+            ],
+            "length": 18,
+            "width": 8,
+            "angle": 160,
+            "contrailSize": 24,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -35, -19
+            ],
+            "length": 18,
+            "width": 8,
+            "angle": 200,
+            "contrailSize": 24,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -25, 53
+            ],
+            "length": 16,
+            "width": 6,
+            "angle": 110,
+            "contrailSize": 24,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -25, -52
+            ],
+            "length": 16,
+            "width": 6,
+            "angle": 250,
+            "contrailSize": 24,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                32, 30
+            ],
+            "length": 16,
+            "width": 6,
+            "angle": 40,
+            "contrailSize": 24,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                32, -29
+            ],
+            "length": 16,
+            "width": 6,
+            "angle": -40,
+            "contrailSize": 24,
+            "style": "LOW_TECH"
+        }
+    ],
+    "bounds": [
+             -20,       53,
+              27,       32,
+              53,        0,
+              27,      -31,
+             -18,      -52,
+        
+             -46,        0
+    ]
+}

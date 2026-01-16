@@ -1,0 +1,62 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "module_hightech_attack",
+    "hullMods": [
+        "armoredweapons",
+        "autorepair",
+        "eccm",
+        "fluxbreakers",
+        "magazines",
+        "missleracks",
+        "pointdefenseai",
+        "turretgyros",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "module_hightech_attack_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 007": "harpoon",
+                "WS 012": "harpoon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "sabotpod",
+                "WS 004": "sabotpod",
+                "WS 005": "sabotpod",
+                "WS 003": "sabotpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "autopulse",
+                "WS 000": "autopulse",
+                "WS 001": "autopulse",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "ioncannon",
+                "WS 009": "ioncannon",
+                "WS 011": "ioncannon",
+                "WS 010": "ioncannon",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,66 @@
+{
+    "displayName": "Overdriven",
+    "fluxCapacitors": 0,
+    "fluxVents": 1,
+    "goalVariant": true,
+    "hullId": "eradicator",
+    "hullMods": [
+        "armoredweapons",
+        "heavyarmor",
+        "safetyoverrides",
+        "shield_shunt",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "eradicator_Overdriven",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "chaingun",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "hammer",
+                "WS 002": "hammer",
+                "WS 003": "hammer",
+                "WS 000": "hammer",
+                "WS 001": "hammer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "heavymg",
+                "WS 005": "heavymg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "lightdualmg",
+                "WS 009": "lightdualmg",
+                "WS 011": "lightdualmg",
+                "WS 012": "lightdualmg",
+                "WS 010": "lightdualmg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "vulcan",
+                "WS 014": "vulcan",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

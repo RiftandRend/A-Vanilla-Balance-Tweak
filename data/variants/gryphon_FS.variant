@@ -1,0 +1,62 @@
+{
+    "displayName": "Fire Support",
+    "fluxCapacitors": 16,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "gryphon",
+    "hullMods": [
+        "eccm",
+        "missile_autoloader",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "gryphon_FS",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "squall",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "harpoonpod",
+                "WS 009": "harpoonpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "harpoon",
+                "WS 012": "harpoon",
+                "WS 010": "harpoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "lightmg",
+                "WS 007": "lightmg",
+                "WS 004": "lightmg",
+                "WS 005": "lightmg",
+                "WS 003": "lightmg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "dualflak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,59 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 0,
+    "fluxVents": 29,
+    "goalVariant": true,
+    "hullId": "eradicator",
+    "hullMods": [
+        "eccm",
+        "missleracks",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "eradicator_Support",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "hveldriver",
+                "WS 007": "hveldriver",
+                "WS 005": "hveldriver",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "harpoon",
+                "WS 000": "harpoon",
+                "WS 001": "harpoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "swarmer",
+                "WS 003": "swarmer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "lightmg",
+                "WS 009": "lightmg",
+                "WS 013": "lightmg",
+                "WS 014": "lightmg",
+                "WS 011": "lightmg",
+                "WS 012": "lightmg",
+                "WS 010": "lightmg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

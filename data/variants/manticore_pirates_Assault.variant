@@ -1,0 +1,36 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 15,
+    "fluxVents": 3,
+    "goalVariant": true,
+    "hullId": "manticore_pirates",
+    "hullMods": [
+        "safetyoverrides",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "manticore_pirates_Assault",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "heavymg",
+                "WS 005": "heavymg",
+                "WS 002": "lightdualmg",
+                "WS 003": "lightdualmg",
+                "WS 001": "lightdualmg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

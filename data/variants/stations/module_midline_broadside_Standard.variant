@@ -1,0 +1,76 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "module_midline_broadside",
+    "hullMods": [
+        "advancedshieldemitter",
+        "armoredweapons",
+        "autorepair",
+        "eccm",
+        "fluxbreakers",
+        "pointdefenseai",
+        "turretgyros",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "module_midline_broadside_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "hephag",
+                "WS 002": "hephag",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "multineedler",
+                "WS 004": "multineedler",
+                "WS 001": "multineedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "lightneedler",
+                "WS 017": "lightneedler",
+                "WS 018": "lightneedler",
+                "WS 016": "lightneedler",
+                "WS 022": "lightneedler",
+                "WS 020": "lightneedler",
+                "WS 021": "lightneedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "ionpulser",
+                "WS 013": "ionpulser",
+                "WS 014": "ionpulser",
+                "WS 011": "ionpulser",
+                "WS 012": "ionpulser",
+                "WS 010": "ionpulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "devastator",
+                "WS 005": "devastator",
+                "WS 003": "devastator",
+                "WS 000": "devastator",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

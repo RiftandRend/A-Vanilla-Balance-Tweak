@@ -1,0 +1,53 @@
+{
+    "displayName": "Attack",
+    "fluxCapacitors": 0,
+    "fluxVents": 9,
+    "goalVariant": true,
+    "hullId": "vanguard_pirates",
+    "hullMods": [
+        "armoredweapons",
+        "fluxbreakers",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "vanguard_pirates_Attack",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "lightag",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "sabot",
+                "WS 005": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "lightdualac",
+                "WS 003": "lightdualac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "swarmer",
+                "WS 000": "swarmer",
+                "WS 001": "swarmer",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

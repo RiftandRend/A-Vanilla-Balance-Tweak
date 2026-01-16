@@ -1,0 +1,43 @@
+{
+    "displayName": "Attack",
+    "fluxCapacitors": 10,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "hyperion",
+    "hullMods": [
+        "advancedshieldemitter",
+        "extendedshieldemitter",
+        "hardened_subsystems",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "hyperion_Attack",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "phasebeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "heavyneedler",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pulselaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,140 @@
+{
+    "hullName": "Merlon",
+    "hullId": "merlon",
+    "hullSize": "FIGHTER",
+    "style": "LOW_TECH",
+    "spriteName": "graphics/ships/stations/merlon.png",
+    "height": 120,
+    "width": 92,
+    "center": [
+        47, 59
+    ],
+    "collisionRadius": 68,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 1
+    ],
+    "shieldRadius": 68,
+    "viewOffset": 0,
+    "builtInMods": [
+        "supercomputer"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "MEDIUM",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 0,
+            "locations": [
+                      15,        1
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 220,
+            "angle": 90,
+            "locations": [
+                       6,       25
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 220,
+            "angle": -90,
+            "locations": [
+                       7,      -23
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 230,
+            "angle": 35,
+            "locations": [
+                      37,       17
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 230,
+            "angle": 325,
+            "locations": [
+                      37,      -15
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                13, 34
+            ],
+            "length": 16,
+            "width": 8,
+            "angle": 90,
+            "contrailSize": 20,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                13, -31
+            ],
+            "length": 16,
+            "width": 8,
+            "angle": -90,
+            "contrailSize": 20,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -20, 20
+            ],
+            "length": 12,
+            "width": 6,
+            "angle": 140,
+            "contrailSize": 18,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -20, -18
+            ],
+            "length": 12,
+            "width": 6,
+            "angle": 220,
+            "contrailSize": 18,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                50, 1
+            ],
+            "length": 12,
+            "width": 6,
+            "angle": 0,
+            "contrailSize": 18,
+            "style": "LOW_TECH"
+        }
+    ],
+    "bounds": [
+              45,      -23,
+              -7,      -27,
+             -47,        1,
+              -8,       29,
+              45,       27
+    ]
+}

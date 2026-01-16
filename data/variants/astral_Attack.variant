@@ -1,0 +1,86 @@
+{
+    "displayName": "Attack",
+    "fluxCapacitors": 50,
+    "fluxVents": 43,
+    "goalVariant": true,
+    "hullId": "astral",
+    "hullMods": [
+        "eccm",
+        "expanded_deck_crew",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "astral_Attack",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "squall",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "harpoon",
+                "WS 005": "harpoon",
+                "WS 002": "harpoon",
+                "WS 003": "harpoon",
+                "WS 001": "harpoon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 014": "typhoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 012": "hil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "pulselaser",
+                "WS 023": "pulselaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "gravitonbeam",
+                "WS 024": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "pdlaser",
+                "WS 006": "pdlaser",
+                "WS 007": "pdlaser",
+            }
+        },
+    ],
+    "wings": [
+        "claw_wing",
+        "gladius_wing",
+        "gladius_wing",
+        "gladius_wing",
+        "gladius_wing",
+        "claw_wing",
+    ],
+    "modules": [],
+}

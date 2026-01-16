@@ -1,0 +1,52 @@
+{
+    "displayName": "Outdated",
+    "fluxCapacitors": 16,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "enforcer",
+    "hullMods": [
+        "eccm",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "enforcer_Outdated",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "arbalest",
+                "WS 002": "arbalest",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "annihilator",
+                "WS 009": "annihilator",
+                "WS 006": "annihilator",
+                "WS 007": "annihilator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "shredder",
+                "WS 001": "shredder",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

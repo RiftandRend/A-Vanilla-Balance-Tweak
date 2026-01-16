@@ -1,0 +1,71 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 36,
+    "fluxVents": 50,
+    "goalVariant": false,
+    "hullId": "legion",
+    "hullMods": [
+        "armoredweapons",
+        "ballistic_rangefinder",
+        "fluxbreakers",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "legion_Assault",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 007": "sabotpod",
+                "WS 004": "sabotpod",
+                "WS 005": "sabotpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "typhoon",
+                "WS 003": "typhoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "hellbore",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "lightac",
+                "WS 019": "lightac",
+                "WS 009": "lightac",
+                "WS 018": "lightac",
+                "WS 015": "lightac",
+                "WS 014": "lightac",
+                "WS 020": "lightac",
+                "WS 021": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "devastator",
+            }
+        },
+    ],
+    "wings": [
+        "gladius_wing",
+        "gladius_wing",
+        "gladius_wing",
+        "gladius_wing",
+    ],
+    "modules": [],
+}

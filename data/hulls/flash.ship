@@ -1,0 +1,107 @@
+{
+    "hullName": "Flash",
+    "hullId": "flash",
+    "hullSize": "FIGHTER",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/ships/remnants/flare.png",
+    "height": 34,
+    "width": 40,
+    "center": [
+        20, 16
+    ],
+    "collisionRadius": 26,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 26,
+    "viewOffset": 0,
+    "builtInMods": [
+        "no_weapon_flux"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "UNIVERSAL",
+            "mount": "HIDDEN",
+            "arc": 45,
+            "angle": 0,
+            "locations": [
+                       8,        0
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": -80,
+            "locations": [
+                      10,       -6
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 80,
+            "locations": [
+                      10,        7
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -13, 13
+            ],
+            "length": 12,
+            "width": 4,
+            "angle": 180,
+            "contrailSize": 16,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -11, 9
+            ],
+            "length": 12,
+            "width": 4,
+            "angle": 180,
+            "contrailSize": 16,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -13, -13
+            ],
+            "length": 12,
+            "width": 4,
+            "angle": 180,
+            "contrailSize": 16,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -11, -8
+            ],
+            "length": 12,
+            "width": 4,
+            "angle": 180,
+            "contrailSize": 16,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+             -10,       16,
+              11,       11,
+              11,      -10,
+             -10,      -15
+    ]
+}

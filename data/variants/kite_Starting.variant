@@ -1,0 +1,33 @@
+{
+    "displayName": "Starting",
+    "fluxCapacitors": 10,
+    "fluxVents": 1,
+    "goalVariant": false,
+    "hullId": "kite_hegemony",
+    "hullMods": [
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "kite_Starting",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "lightag",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "sabot",
+                "WS 001": "sabot",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

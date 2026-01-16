@@ -1,0 +1,69 @@
+{
+    "displayName": "Super",
+    "fluxCapacitors": 0,
+    "fluxVents": 4,
+    "goalVariant": true,
+    "hullId": "prometheus",
+    "hullMods": [
+        "armoredweapons",
+        "heavyarmor",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "prometheus_Super",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "lightneedler",
+                "WS 004": "lightmortar",
+                "WS 002": "vulcan",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "vulcan",
+                "WS 005": "lightmortar",
+                "WS 003": "dualflak",
+                "WS 001": "vulcan",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "lightneedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "lightmortar",
+                "WS 005": "lightmortar",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "dualflak",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "vulcan",
+                "WS 002": "vulcan",
+                "WS 001": "vulcan",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,42 @@
+{
+    "displayName": "Starting",
+    "fluxCapacitors": 4,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "drover",
+    "hullMods": [
+        "eccm",
+        "efficiency_overhaul",
+        "expanded_deck_crew",
+        "missleracks",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "drover_Starting",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "lightmg",
+                "WS 001": "lightmg",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "harpoon",
+                "WS 005": "harpoon",
+                "WS 002": "harpoon",
+                "WS 003": "harpoon",
+            }
+        },
+    ],
+    "wings": [
+        "thunder_wing",
+        "thunder_wing",
+    ],
+    "modules": [],
+}

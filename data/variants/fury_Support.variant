@@ -1,0 +1,53 @@
+{
+    "displayName": "Support",
+    "fluxCapacitors": 30,
+    "fluxVents": 9,
+    "goalVariant": true,
+    "hullId": "fury",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "fury_Support",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "harpoonpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "pulselaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "phasecl",
+                "WS 005": "swarmer",
+                "WS 003": "lrpdlaser",
+                "WS 004": "lrpdlaser",
+                "WS 007": "pdlaser",
+                "WS 008": "pdlaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

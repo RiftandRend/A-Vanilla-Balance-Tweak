@@ -1,0 +1,27 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 34,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "atlas",
+    "hullMods": [
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "atlas_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightmg",
+                "WS 003": "lightmg",
+                "WS 001": "lightmg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

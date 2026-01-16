@@ -1,0 +1,43 @@
+{
+    "displayName": "Balanced",
+    "fluxCapacitors": 4,
+    "fluxVents": 20,
+    "goalVariant": true,
+    "hullId": "manticore",
+    "hullMods": [
+        "heavyarmor",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "manticore_Balanced",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "mark9",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "annihilatorpod",
+                "WS 005": "annihilatorpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightdualac",
+                "WS 003": "lightdualac",
+                "WS 001": "lightdualac",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

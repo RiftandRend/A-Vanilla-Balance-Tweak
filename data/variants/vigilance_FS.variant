@@ -1,0 +1,37 @@
+{
+    "displayName": "Fire Support",
+    "fluxCapacitors": 10,
+    "fluxVents": 5,
+    "goalVariant": true,
+    "hullId": "vigilance",
+    "hullMods": [
+        "extendedshieldemitter",
+        "frontemitter",
+        "hardenedshieldemitter",
+        "missleracks"
+    ],
+    "variantId": "vigilance_FS",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "hveldriver"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "pilum"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "swarmer"
+            }
+        }
+    ]
+}

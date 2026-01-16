@@ -1,0 +1,48 @@
+{
+    "displayName": "Close Support",
+    "fluxCapacitors": 0,
+    "fluxVents": 14,
+    "goalVariant": false,
+    "hullId": "enforcer",
+    "hullMods": [
+        "eccm",
+        "missile_autoloader",
+        "missleracks",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "enforcer_CS",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "arbalest",
+                "WS 002": "arbalest",
+                "WS 003": "arbalest",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "harpoon",
+                "WS 009": "harpoon",
+                "WS 006": "harpoon",
+                "WS 007": "harpoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "flak",
+                "WS 001": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

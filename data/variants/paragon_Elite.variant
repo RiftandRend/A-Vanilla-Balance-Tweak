@@ -1,0 +1,82 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 27,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "paragon",
+    "hullMods": [
+        "fluxbreakers",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "magazines",
+        "pointdefenseai",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "paragon_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "autopulse",
+                "WS 001": "autopulse",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "tachyonlance",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "heavyneedler",
+                "WS 008": "heavyneedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "gravitonbeam",
+                "WS 006": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 015": "swarmer",
+                "WS 021": "swarmer",
+                "WS 012": "swarmer",
+                "WS 014": "swarmer",
+                "WS 018": "swarmer",
+                "WS 020": "swarmer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "guardian",
+                "WS 009": "heavyburst",
+                "WS 010": "heavyburst",
+                "WS 011": "irpulse",
+                "WS 013": "irpulse",
+                "WS 016": "irpulse",
+                "WS 017": "irpulse",
+                "WS 019": "irpulse",
+                "WS 022": "irpulse",
+                "WS 023": "irpulse",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

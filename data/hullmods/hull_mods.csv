@@ -1,0 +1,14 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sModDesc,sprite
+,,,,,,,,,,,,,,,,,,,
+Escort Package,escort_package,1,,,"special, weapons, engines, standard","Special, Weapons, Engines",8000,,,,0,7,7,0,data.hullmods.EscortPackage,"When this ship is within approximately %s su of a larger friendly vessel, increases this ship's maneuverability by %s, and top speed by %s. Also increases ballistic and energy weapon range by %s.
+
+These bonuses are %s for destroyers when the nearby friendly is a capital ship.","Increases maneuverability, top speed, and weapon range when near larger friendly ship.",Frigates & Destroyers: reduces the amount of damage taken by shields by %s. No added effect for cruisers.,graphics/hullmods/escort_package.png
+Converted Hangar,converted_hangar,1,,,"special, non_phase, merc, standard",Fighters,5000,,,,0,10,10,10,data.hullmods.ConvertedHangar,<Tooltip created in script>,Improvised fighter bay for non-carriers.,"Increases the rate at which the fighter replacement rate recovers by %s for cruisers, and by %s for capital ships. No added effect for destroyers.",graphics/hullmods/converted_hangar.png
+Makeshift Shield Generator,frontshield,0,,,"shields, defensive, standard",Shields,4000,,,,5,10,15,25,data.hullmods.FrontShieldGenerator,"Installs a makeshift, inefficient shield generator on the ship. The shield emitter is locked in a forward-facing position and has a %s degree arc.
+
+The shield generator draws much of its power from engines and reduces the ship's top speed by %s.",Installs basic shields on shieldless ship.,,graphics/hullmods/front_shield_generator.png
+Missile Autoloader,missile_autoloader,1,,,"offensive, merc, standard",Weapons,6000,,,,8,12,20,30,data.hullmods.MissileAutoloader,<tooltip created in the script due to sections/other complexity>,Reloads missile weapons in small missile mounts,Increases the post-reload cooldown to %s seconds.,graphics/hullmods/missile_autoloader.png
+Defensive Targeting Array,defensive_targeting_array,2,,,"special, merc, standard",Fighters,3000,,,,2,3,5,7,com.fs.starfarer.api.impl.hullmods.DefensiveTargetingArray,"Standard fighter communication links are re-purposed to provide short-range targeting data.
+
+Increases fighter damage to missiles and other fighters by %s, but makes the fighters unable to leave the vicinity of their ship.","Increases fighter PD damage, reduces fighter roam range to zero.",Extends range of ballistic and energy weapons of the ship's fighters by %s units.,graphics/hullmods/defensive_targeting_array.png
+,,,,,,,,,,,,,,,,,,,

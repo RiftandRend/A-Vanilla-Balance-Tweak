@@ -1,0 +1,77 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 50,
+    "fluxVents": 50,
+    "goalVariant": true,
+    "hullId": "retribution",
+    "hullMods": [
+        "fluxbreakers",
+        "fluxcoil",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "retribution_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "mark9",
+                "WS 001": "mark9",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "swarmer",
+                "WS 009": "swarmer",
+                "WS 007": "swarmer",
+                "WS 020": "swarmer",
+                "WS 021": "swarmer",
+                "WS 010": "swarmer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "lightdualac",
+                "WS 013": "lightdualac",
+                "WS 014": "lightdualac",
+                "WS 011": "lightdualac",
+                "WS 012": "lightdualac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "vulcan",
+                "WS 016": "vulcan",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "shredder",
+                "WS 004": "shredder",
+                "WS 005": "shredder",
+                "WS 003": "shredder",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}
