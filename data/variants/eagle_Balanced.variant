@@ -1,7 +1,7 @@
 {
     "displayName": "Balanced",
-    "fluxCapacitors": 1,
-    "fluxVents": 30,
+    "fluxCapacitors": 30,
+    "fluxVents": 10,
     "goalVariant": true,
     "hullId": "eagle",
     "hullMods": [
@@ -20,36 +20,22 @@
             "weapons": {
                 "WS 008": "heavyac",
                 "WS 007": "heavyac",
+                "WS 013": "chaingun",
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "sabot",
-            }
-        },
-        {
-            "autofire": false,
-            "mode": "LINKED",
-            "weapons": {
-                "WS 013": "heavymauler",
+                "WS 002": "harpoon",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 009": "ionbeam",
                 "WS 006": "gravitonbeam",
                 "WS 005": "gravitonbeam",
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
-                "WS 011": "ioncannon",
             }
         },
         {
@@ -63,8 +49,22 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "lrpdlaser",
-                "WS 003": "lrpdlaser",
+                "WS 009": "heavyburst",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "pdlaser",
+                "WS 003": "pdlaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "lrpdlaser",
                 "WS 012": "lrpdlaser",
                 "WS 010": "lrpdlaser",
             }

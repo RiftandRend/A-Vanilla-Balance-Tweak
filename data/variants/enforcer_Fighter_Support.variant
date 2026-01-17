@@ -1,11 +1,12 @@
 {
     "displayName": "Fighter Support",
-    "fluxCapacitors": 1,
-    "fluxVents": 20,
+    "fluxCapacitors": 0,
+    "fluxVents": 18,
     "goalVariant": false,
     "hullId": "enforcer",
     "hullMods": [
         "converted_hangar",
+        "defensive_targeting_array",
         "missleracks",
     ],
     "permaMods": [],
@@ -25,10 +26,10 @@
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS 008": "sabot",
-                "WS 009": "sabot",
-                "WS 006": "sabot",
-                "WS 007": "sabot",
+                "WS 008": "annihilator",
+                "WS 009": "annihilator",
+                "WS 006": "annihilator",
+                "WS 007": "annihilator",
             }
         },
         {

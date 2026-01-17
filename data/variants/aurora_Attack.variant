@@ -1,7 +1,7 @@
 {
     "displayName": "Attack",
     "fluxCapacitors": 30,
-    "fluxVents": 26,
+    "fluxVents": 27,
     "goalVariant": true,
     "hullId": "aurora",
     "hullMods": [
@@ -18,15 +18,7 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 009": "ionpulser",
-            }
-        },
-        {
-            "autofire": false,
-            "mode": "ALTERNATING",
-            "weapons": {
-                "WS 006": "breachpod",
-                "WS 002": "breach",
+                "WS 009": "pulselaser",
             }
         },
         {
@@ -38,8 +30,16 @@
             }
         },
         {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "breachpod",
+                "WS 002": "breach",
+            }
+        },
+        {
             "autofire": true,
-            "mode": "ALTERNATING",
+            "mode": "LINKED",
             "weapons": {
                 "WS 010": "swarmer",
                 "WS 011": "swarmer",
@@ -51,9 +51,15 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "pdburst",
+                "WS 004": "ioncannon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "pdlaser",
                 "WS 003": "pdlaser",
-                "WS 004": "pdlaser",
                 "WS 005": "pdlaser",
             }
         },

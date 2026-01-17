@@ -38,33 +38,33 @@ Devastator Cannon,devastator,1,,3500,900,,150,,40,12,20,,,,HIGH_EXPLOSIVE,75,,0,
 Will target missiles if no other targets are in range.",,,,,7.4
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Swarmer SRM Launcher,swarmer,1,,250,900,,100,,15,50,3,4,0.5,,HIGH_EXPLOSIVE,0,,0,0.25,1,0,0,0,0,0,,300,300,7,50,,,"PD, ANTI_FTR, DO_NOT_AIM, MISSILE_SPREAD","pd9, utility8, missile0, missile_bp, merc, ind",,,,Anti Small Craft / Point Defense,Fast,Excellent,,,,,,,,10
-Light Swarmer SRM Launcher,swarmer_fighter,1,,250,900,,100,,5,50,4,2,0.125,,HIGH_EXPLOSIVE,0,,0,0.5,1,0,0,0,0,0,,300,50,4,50,,,"PD, ANTI_FTR, DO_NOT_AIM, SYSTEM, MISSILE_SPREAD","utility8, missile0, show_in_codex",,,,Anti Small Craft (Fighter),Fast,Excellent,,,,,,,,10
+Swarmer SRM Launcher,swarmer,1,,250,900,,100,,15,50,3,4,0.5,,HIGH_EXPLOSIVE,0,,0,0.5,1,0,0,0,0,0,,300,300,7,50,,,"PD, ANTI_FTR, DO_NOT_AIM, DIRECT_AIM, PD_ALSO, USE_LESS_VS_SHIELDS","pd9, utility8, missile0, missile_bp, merc, ind",,,,Anti Small Craft / Point Defense,Fast,Excellent,,,,,,,,10
+Light Swarmer SRM Launcher,swarmer_fighter,1,,250,900,,100,,5,50,4,2,0.125,,HIGH_EXPLOSIVE,0,,0,0.5,1,0,0,0,0,0,,300,50,4,50,,,"PD, ANTI_FTR, DO_NOT_AIM, SYSTEM, DIRECT_AIM","utility8, missile0, show_in_codex",,,,Anti Small Craft (Fighter),Fast,Excellent,,,,,,,,10
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Locust SRM Launcher,locust,1,,4000,1500,,200,,5,30,18,30,2,30,FRAGMENTATION,0,,0,0.1,1,,0,0,0,0,,500,200,6,50,,,"PD, DO_NOT_AIM, DO_NOT_CONSERVE, ANTI_FTR, MISSILE_SPREAD","pd18, utility18, missile15, rare_bp, hist1t, merc, ind",,,,Pressure / Point Defense,Fast,Excellent,,,,,,,,16.3
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Proximity Charge Launcher,phasecl,2,,1500,1200,,500,0,200,30,10,12,0.25,8,FRAGMENTATION,125,,0,1,1,,10,10,0,0,,200,400,10,350,,,"PD, ANTI_FTR","pd15, utility8, rare_bp, merc, ind",,,,Point Defense (Area) / Assault,Very Slow,None,,,"Not affected by missile speed, acceleration, and flight time modifiers.",,,,,13
+Proximity Charge Launcher,phasecl,2,,1500,1200,,500,0,200,30,10,12,0.25,6,FRAGMENTATION,125,,0,1,1,,10,10,0,0,,200,400,10,350,,,PD,"pd15, utility8, rare_bp, merc, ind",,,,Point Defense (Area) / Assault,Very Slow,None,,,"Not affected by missile speed, acceleration, and flight time modifiers.",,,,,13
 Light Proximity Charge Launcher,phasecl_bomber,2,,1500,2000,,500,0,200,30,12,6,,,FRAGMENTATION,0,,0,.33,1,,20,20,0,0,,200,200,12,250,,,"SYSTEM, STRIKE, BOMB, PD, PD_ALSO","utility8, show_in_codex",,,,Strike (Fighter),Very Slow,None,,,,,,,,13.5
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Cluster Bomblet Projector,clusterbomb,2,,350,900,,300,,30,15,3,15,.1,15,HIGH_EXPLOSIVE,0,,0,4.6,5,0.1,25,45,5,10,,300,300,4,100,,,STRIKE,"he0, base_bp, ind",,,,Strike,,,,,,,,,,3.4
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Standard Bomb Bay,bomb,1,,200,1500,,500,,50,15,4,5,,,HIGH_EXPLOSIVE,0,,0,0.25,1,,20,20,0,0,,200,100,25,225,,,"STRIKE, BOMB","he0, no_sell, no_drop, no_drop_salvage",,,,Strike,,,,,,,,,,3.5
 Stinger-class Proximity Mine (Fighter),fragbomb,0,,100,500,,500,,10,0,1,2,0.1,,FRAGMENTATION,0,,0,1,1,,0,0,0,0,,50,20,7,150,,,"DO_NOT_AIM, ANTI_FTR, PD_ONLY, SYSTEM","he0, show_in_codex",,,,Anti Fighter (Fighter),,,,,,,,,,3.2
-"IR Pulse Laser (High Delay, Fighter)",irpulse_fighter,1,,250,550,,60,,0,50,5,,,,ENERGY,42,,0.1,0.566666,,,,,,,,2000,,,,,,"SYSTEM, PD, PD_ALSO","energy8, show_in_codex",,,,General (Fighter),,,,,,,,,,19.3
-"Ion Cannon (High Delay, Fighter)",ioncannon_fighter,2,,500,500,,25,500,0,40,6,,,,ENERGY,25,,0.25,1.25,2,.5,,,,,,1000,,,,,,SYSTEM,"energy8, show_in_codex",,,,Suppression (Fighter),,,,,"Hits on hull or armor have a %s chance to arc to weapons and engines, dealing extra damage equal to the original hit.",,,,,19.1
-Annihilator Rocket Pod (Fighter),annihilator_fighter,0,,150,2000,,200,,5,30,4,5,,,HIGH_EXPLOSIVE,0,,0,0.1,5,.25,10,45,12,5,,400,400,5,50,,,SYSTEM,"rocket13, strike8, show_in_codex",,,,Anti Armor (Fighter),Fast,None,,,,,,,,11.1
+"IR Pulse Laser (High Delay, Fighter)",irpulse_fighter,1,,250,600,,50,,0,50,5,,,,ENERGY,35,,0.1,0.566666,,,,,,,,2000,,,,,,"SYSTEM, PD, PD_ALSO","energy8, show_in_codex",,,,General (Fighter),,,,,,,,,,19.3
+"Ion Cannon (High Delay, Fighter)",ioncannon_fighter,2,,500,500,,25,500,0,40,6,,,,ENERGY,25,,0.25,1.25,2,.5,,,,,,1500,,,,,,SYSTEM,"energy8, show_in_codex",,,,Suppression (Fighter),,,,,"Hits on hull or armor have a %s chance to arc to weapons and engines, dealing extra damage equal to the original hit.",,,,,19.1
+Annihilator Rocket Pod (Fighter),annihilator_fighter,0,,150,2000,,200,,5,30,4,5,,,HIGH_EXPLOSIVE,0,,0,0.1,5,.25,10,45,12,5,,450,450,5,60,,,SYSTEM,"rocket13, strike8, show_in_codex",,,,Anti Armor (Fighter),Fast,None,,,,,,,,11.1
 PD Laser (Fighter),avbt_pdlaser_fighter,1,,200,500,75,,,0,90,3,,,,ENERGY,,50,0,0.25,,,,,,,4000,,,,,,,"PD, SYSTEM","pd8, show_in_codex",,,,Point Defense,,,,,,,,,,17
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Mining Laser,mininglaser,0,,100,700,30,,,0,60,1,,,,HIGH_EXPLOSIVE,,10,0,0.25,,,,,,,4000,,,,,,,PD,"beam0, energy0, pd0, base_bp, ind",,,,Point Defense,,,,,,,,,,16.5
 PD Laser,pdlaser,1,,200,450,100,,,0,90,3,,,,HIGH_EXPLOSIVE,,50,0,0.25,,,,,,,4000,,,,,,,PD,"pd7, beam7, SR, hightech_bp, midline_bp, merc, ind",,,,Point Defense,,,,,,,,,,17
-LR PD Laser,lrpdlaser,2,,400,900,50,,25,0,90,4,,,,ENERGY,,20,0,0.25,,,,,,,4000,,,,,,,PD,"pd7, beam5, hightech_bp, midline_bp, merc, ind",,,,Point Defense,,,,,,,,,,19.5
+LR PD Laser,lrpdlaser,2,,400,900,50,,50,0,90,4,,,,ENERGY,,20,0,0.25,,,,,,,4000,,,,,,,PD,"pd7, beam5, hightech_bp, midline_bp, merc, ind",,,,Point Defense,,,,,,,,,,19.5
 Burst PD Laser,pdburst,2,,600,500,400,,,0,120,5,6,0.75,3,ENERGY,,240,0,0,0.25,0.25,,,,,10000,,,,,,,"PD, ANTI_FTR","pd9, beam6, rare_bp, merc, ind",,,,Point Defense,,,,,Peak beam intensity is %s dps,400,,,,19.6
 Heavy Burst Laser,heavyburst,2,,2000,600,400,,,0,90,8,6,0.75,3,ENERGY,,240,0,0,0.5,0.166,,,,,10000,,,,,,,"PD, ANTI_FTR","pd15, beam10, rare_bp, merc, ind",,,,Point Defense,,,,,Peak beam intensity is %s dps,400,,,,22.5
 Paladin PD System,guardian,2,0.5,5000,800,1500,,,0,75,18,20,1.5,10,ENERGY,,450,0,0,0.13333,.2,,,,,1000000,,,,,,,"PD, ANTI_FTR","pd19, beam15, rare_bp, merc, ind",,,,Point Defense,,,,,"When all sub-beams impact a target in close proximity to each other, the spalling effect produces an explosion that deals up to 100 points of fragmentation damage to other nearby targets. Peak beam intensity is %s dps",100 | fragmentation | 1500,Peak beam intensity is %s dps,1500,,26
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 IR Autolance,irautolance,1,,1200,1000,500,,,0,50,8,40,2,10,FRAGMENTATION,,150,0,0,0.1,0,,,,,1000000,,,,,,,USE_LESS_VS_SHIELDS,"beam12, energy10, rare_bp, merc",,,,General,,,,,,,,,,21.5
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Tactical Laser,taclaser,1,,200,1000,75,,25,0,40,3,,,,ENERGY,,50,0.1,0.1,,,,,,,4000,,,,,,,,"beam9, LR, hightech_bp, midline_bp, merc, ind",,,,General,,,,,,,,,,18
+Tactical Laser,taclaser,1,,200,1000,75,,50,0,40,3,,,,ENERGY,,50,0.1,0.1,,,,,,,4000,,,,,,,,"beam9, LR, hightech_bp, midline_bp, merc, ind",,,,General,,,,,,,,,,18
 Graviton Beam,gravitonbeam,2,,1500,1000,100,,,10,30,9,,,,KINETIC,,75,0.1,0.1,,,,,,,4000,,,,,,,,"beam12, kinetic11, LR, hightech_bp, midline_bp, merc, ind",,,,Suppression,,,,,"Disrupts the target's shields, increasing all shield damage taken by %s for one full-power graviton beam, %s for two, and %s for three or more hitting the shields at the same time. Effect is culmulative with Gazer DEMs, to the maximum effect of 3 beams.",5% | 8% | 10%,Gravitic effects slow and push target off-course. The effect is minor and is most noticeable vs fighters and missiles.,,,21
 Ion Beam,ionbeam,3,0.5,2500,1000,100,,400,0,15,12,,,,ENERGY,,200,0.1,0.1,,,,,,,4000,,,,,,,FIRE_WHEN_INEFFICIENT,"beam14, LR, rare_bp, hist1t, merc, ind",,,,Suppression,,,,,"Hits on hull or armor periodically arc to weapons and engines, dealing extra EMP and energy damage. Hits on shields have a chance to generate a shield-penetrating arc based on the target's hard flux level.",,,,,22.85
 High Intensity Laser,hil,1,,4500,1000,500,,,0,10,20,,,,HIGH_EXPLOSIVE,,400,0.1,0.1,,,,,,,4000,,,,,,,,"beam20, LR, hightech_bp, merc, ind",,,,Anti Armor,,,,,,,,,,24
@@ -75,14 +75,14 @@ Phase Lance,phasebeam,1,,1500,600,1000,,,0,20,10,,,,ENERGY,,800,0,0,1.2,4.8,,,,,
 Antimatter Blaster,amblaster,3,0.7,900,500,,1000,,250,30,8,,,,ENERGY,900,,0.25,9.75,,,0,0,0,0,,1000,,,100,,,"STRIKE, USE_VS_FRIGATES, GROUP_ALTERNATING","strike10, rare_bp, hist1t, merc, ind",SR_strike_only,,,Strike,,,,,,,,,,19.75
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ion Cannon,ioncannon,2,,500,500,,25,600,0,40,5,,,,ENERGY,25,,0.25,0.25,,,,,,,,1000,,,,,,USE_LESS_VS_SHIELDS,"energy8, hightech_bp, merc, ind",,,,Suppression,,,,,"Hits on hull or armor have a %s chance to arc to weapons and engines, dealing extra damage equal to the original hit.",25%,,,,19
-IR Pulse Laser,irpulse,1,,250,550,,60,,0,70,4,,,,ENERGY,45,,.1,0.233333,,,,,,,,2000,,,,,,,"energy8, hightech_bp, merc, ind",,,,General,,,,,,,,,,19.25
-Pulse Laser,pulselaser,1,,1200,650,,120,,0,20,10,,,,ENERGY,96,,.1,0.233333,,,,,,,,1000,,,,,,,"energy13, base_bp, merc, ind",,,,General,,,,,,,,,,22
+Ion Cannon,ioncannon,2,,500,500,,25,600,0,40,5,,,,ENERGY,25,,0.25,0.25,,,,,,,,1500,,,,,,USE_LESS_VS_SHIELDS,"energy8, hightech_bp, merc, ind",,,,Suppression,,,,,"Hits on hull or armor have a %s chance to arc to weapons and engines, dealing extra damage equal to the original hit.",25%,,,,19
+IR Pulse Laser,irpulse,1,,250,600,,50,,0,70,4,,,,ENERGY,35,,.1,0.233333,,,,,,,,2000,,,,,,,"energy8, hightech_bp, merc, ind",,,,General,,,,,,,,,,19.25
+Pulse Laser,pulselaser,1,,1200,700,,100,,0,20,10,,,,ENERGY,80,,.1,0.233333,,,,,,,,1500,,,,,,,"energy13, base_bp, merc, ind",,,,General,,,,,,,,,,22
 Kinetic Blaster,kineticblaster,3,,5000,600,,250,125,0,15,12,,,,KINETIC,325,,.25,3.45,4,.1,,,,,,2000,,,,,,"STRIKE, USE_VS_FRIGATES","kinetic11, no_sell, no_dealer, no_drop_salvage, codex_unlockable",,Lion's Guard,,Anti Shield,,,,,,,,,,22.35
 Mining Blaster,miningblaster,0,,1000,500,,200,,0,7,10,4,0.5,,HIGH_EXPLOSIVE,250,,0,0.2,,,,,,,,1000,,,,,,"USE_LESS_VS_SHIELDS, STRIKE, USE_VS_FRIGATES","energy12, base_bp, ind",,,,Anti Armor,,,,,Each bolt deals an additional %s damage to armor. This damage is not reduced by armor.,100,,,,22.125
 Ion Pulser,ionpulser,2,0.6,2250,500,,100,600,0,20,11,20,2,3,ENERGY,110,,0.05,0.05,3,0.1,3,12,1,4,,1000,,,,,,,"energy13, rare_bp, merc, ind",,,,Suppression,,,,,"Hits on hull or armor have a %s chance to arc to weapons and engines, dealing extra damage equal to the original hit.",25%,,,,22.75
 Heavy Blaster,heavyblaster,2,,2500,600,,500,250,0,15,12,,,,ENERGY,650,,0,1,,,,,,,,1000,,,,,,,"energy14, rare_bp, hist1t, merc, ind",,,,General,,,,,,,,,,22.25
-Autopulse Laser,autopulse,1,,4500,700,,150,,0,20,20,30,2,10,ENERGY,125,,0.05,0.05,1,,0,10,1,5,,1000,,,,,,,"energy18, hightech_bp, merc, ind",,,,General,,,,,,,,,,25
+Autopulse Laser,autopulse,1,,4500,700,,150,,0,20,20,30,2,15,ENERGY,125,,0.05,0.05,1,,0,10,1,5,,1000,,,,,,,"energy18, hightech_bp, merc, ind",,,,General,,,,,,,,,,25
 Gigacannon,gigacannon,3,,10000,700,,2500,,500,10,25,,,,ENERGY,1500,,0.5,9.5,,,0,0,0,0,,1000,,,,,,"STRIKE, USE_VS_FRIGATES, GROUP_ALTERNATING","strike18, no_sell, no_dealer, no_drop_salvage, codex_unlockable",,Lion's Guard,,Strike,,,,,,,,,,28
 Plasma Cannon,plasma,3,,7500,700,,500,,,20,30,,,,ENERGY,550,,0.33,1.01,3,0.33,,,,,,750,,,500,,,"STRIKE, USE_VS_FRIGATES","energy20, rare_bp, hist1t, merc, ind",,,,General,,,,,The targeting system is incapable of tracking fighters when on local/automatic control.,,,,,23
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

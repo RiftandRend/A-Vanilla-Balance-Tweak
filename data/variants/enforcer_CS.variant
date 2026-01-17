@@ -2,7 +2,7 @@
     "displayName": "Close Support",
     "fluxCapacitors": 0,
     "fluxVents": 14,
-    "goalVariant": false,
+    "goalVariant": true,
     "hullId": "enforcer",
     "hullMods": [
         "eccm",

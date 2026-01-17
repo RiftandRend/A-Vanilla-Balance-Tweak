@@ -2,7 +2,7 @@
     "displayName": "Assault",
     "fluxCapacitors": 10,
     "fluxVents": 6,
-    "goalVariant": false,
+    "goalVariant": true,
     "hullId": "brawler_tritachyon",
     "hullMods": [
         "advancedoptics",
