@@ -10,7 +10,7 @@
 	"explosionColor":[255,165,50,255],  # purely visual, will get a white additively blended core on top of this color
 	"explosionRadius":25, # purely visual
 	"engineSpec":{"turnAcc":480,
-				  "turnRate":240,
+				  "turnRate":270,
 				  "acc":2000,
 				  "dec":1000},				  
 	"engineSlots":[{"id":"ES1",
@@ -34,17 +34,17 @@
 				    "length":20.0,
 				    "angle":180.0}],
 	"behaviorSpec":{"behavior":"PROXIMITY_FUSE",
-					"range":60,
+					"range":80,
 					"slowToMaxSpeed":true,
 					"explosionSpec":{"duration":0.1f,
-									 "radius":80,
-									 "coreRadius":60, # full damage within core radius
+									 "radius":100,
+									 "coreRadius":80, # full damage within core radius
 									 "collisionClass":PROJECTILE_FF,
 									 "collisionClassByFighter":PROJECTILE_FIGHTER,
 									 "particleSizeMin":1.0,
 									 "particleSizeRange":1.0,
 									 "particleDuration":0.1,
-									 "particleCount":10,
+									 "particleCount":7,
 									 "particleColor":[255,165,50,255],
 									 "sound":"explosion_flak"},
 					}	

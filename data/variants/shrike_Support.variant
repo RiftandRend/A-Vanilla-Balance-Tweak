@@ -1,7 +1,7 @@
 {
     "displayName": "Support",
     "fluxCapacitors": 0,
-    "fluxVents": 17,
+    "fluxVents": 18,
     "goalVariant": true,
     "hullId": "shrike",
     "hullMods": [
@@ -25,7 +25,7 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 005": "sabotpod",
+                "WS 005": "harpoonpod",
             }
         },
         {
@@ -34,13 +34,7 @@
             "weapons": {
                 "WS 002": "taclaser",
                 "WS 000": "taclaser",
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
-                "WS 001": "irpulse",
+                "WS 001": "taclaser",
             }
         },
         {

@@ -64,8 +64,8 @@ Mudskipper,mudskipper,Civilian Transport,Low Tech,maneuveringjets,3,1000,150,100
 Mora,mora,Carrier,Low Tech,damper,15,10000,1250,5000,4000,350,155,3,55,20,10,10,10,2000,OMNI,,150,0.4,1,,,200,300,100,60,4,15,8,125000,4,12,420,0.25,20,20,,,,,,,"CARRIER, COMBAT, NO_AUTO_ESCORT","lowtech_bp, merc, ind",,,,0.4,2,3,,410
 Heron,heron,Fast Carrier,Midline,targetingfeed,14,6000,750,6500,6000,300,120,3,80,60,40,20,25,800,OMNI,,180,0.5,0.8,,,150,250,90,60,3,20,8,120000,3,12,420,0.25,20,20,,,,,,,CARRIER,"midline_bp, merc, ind",,,,0.5,2,3,,407
 Gemini,gemini,Combat Freighter,Midline,reservewing,9,4500,500,2700,2833,170,85,1,60,40,30,25,20,400,OMNI,,150,0.4,0.8,,,55,120,250,70,2,35,9,36000,4,8,360,0.25,9,9,28,125,,,,,CARRIER,"midline_bp, ind",,,,0.6,2,3,,305
-Condor,condor,Light Carrier,Low Tech,fastmissileracks,9,5000,500,2200,1833,110,55,2,50,40,30,20,10,400,OMNI,,120,0.4,1.2,,,90,150,120,30,2,15,9,32000,5,10,360,0.25,10,10,,,,,,,CARRIER,"base_bp, ind",,,,0.5,2,3,,302
-Drover,drover,Light Carrier,Midline,flarelauncher_active,11,4250,400,3000,2813,225,80,2,75,60,50,25,25,450,FRONT,,300,0.4,0.8,,,90,150,40,40,2,20,9,40000,5,15,360,0.25,11,11,,,,,,,CARRIER,"midline_bp, merc, ind",,,,0.5,2,3,,318
+Condor,condor,Light Carrier,Low Tech,fastmissileracks,9,5000,500,2200,1833,110,55,2,55,40,30,20,10,400,OMNI,,120,0.4,1.2,,,90,150,120,30,2,15,9,32000,5,10,360,0.25,10,10,,,,,,,CARRIER,"base_bp, ind",,,,0.5,2,3,,302
+Drover,drover,Light Carrier,Midline,flarelauncher_active,11,4250,400,3000,2813,225,80,2,80,60,50,25,25,450,FRONT,,300,0.4,0.8,,,90,150,40,40,2,20,9,40000,5,15,360,0.25,11,11,,,,,,,CARRIER,"midline_bp, merc, ind",,,,0.5,2,3,,318
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

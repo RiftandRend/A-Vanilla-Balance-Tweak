@@ -2,7 +2,7 @@
     "displayName": "Rocket",
     "fluxCapacitors": 15,
     "fluxVents": 30,
-    "goalVariant": false,
+    "goalVariant": true,
     "hullId": "dominator",
     "hullMods": [
         "eccm",

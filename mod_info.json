@@ -3,7 +3,7 @@
   "name": "A Vanilla Balance Tweak", # Displayed to the player
   "author": "Rift",
   "utility": false,
-  "version": { "major": '1', "minor": '2', "patch": '2' },
+  "version": { "major": '1', "minor": '3', "patch": '0' },
   "description": "Adjusts Vanilla content to improve variety",
   "gameVersion": "0.98a-RC8",
   "jars": [ "jars/avbt.jar" ],
@@ -55,6 +55,8 @@
 			"data/variants/enforcer/endorcer_Balanced.variant",
 			"data/variants/enforcer/enforcer_Escort.variant",
 			"data/variants/enforcer/enforcer_Outdated.variant",
+			"data/variants/enforcer/enforcer_CS.variant",
+			"data/variants/enforcer/enforcer_Fighter_Support.variant",
 			"data/variants/eradicator/eradicator_Assault",
 			"data/variants/eradicator/eracicator_Outdated.variant",
 			"data/variants/eradicator/eracicator_Outdated2.variant",

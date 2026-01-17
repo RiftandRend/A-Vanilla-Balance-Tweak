@@ -1,12 +1,18 @@
+Version 1.3.0
+
+- Adjusted Swarmer & PCL weapon hints, should be used more effectively against ships when no PD targets are present
+- IRPL & Pulse Laser gain range, reduced DPS
+- Condor & Drover, +5 to Max Speed
+- Autopulse charges per reload 10->15
+- Minor variant adjustments
+
 Version 1.2.2
 
--> Fixed bugged planets in Hybrasil caused by leftover testing data
+- Removed broken campaign files that snuck into release
 
 
 Version 1.2.1
 
--> Added version checker and mod manager support
--> Minor ship variant adjustments
-
--> Increased speed and health of Annihilators 
-
+- Added version checker and mod manager support
+- Minor variant adjustments
+- Increased speed and health of Annihilators 

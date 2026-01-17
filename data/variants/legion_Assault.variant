@@ -2,7 +2,7 @@
     "displayName": "Assault",
     "fluxCapacitors": 36,
     "fluxVents": 50,
-    "goalVariant": false,
+    "goalVariant": true,
     "hullId": "legion",
     "hullMods": [
         "armoredweapons",
