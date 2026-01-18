@@ -51,5 +51,5 @@
   # A link to your changelog.
   # This is used by mod managers/version checkers (eg SMOL, MOSS, LunaLib) to display changelogs without visiting your mod page.
   # May be plain text or markdown, though plain text is more likely to be rendered correctly in all viewers.
-  "changelogURL": "https://raw.githubusercontent.com/RiftandRend/A-Vanilla-Balance-Tweak/master/changelog.txt",
+  "changelogURL": "https://raw.githubusercontent.com/RiftandRend/A-Vanilla-Balance-Tweak/refs/heads/master/changelog.txt",
 }
