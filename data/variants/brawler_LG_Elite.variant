@@ -2,7 +2,7 @@
     "displayName": "Elite",
     "fluxCapacitors": 10,
     "fluxVents": 4,
-    "goalVariant": false,
+    "goalVariant": true,
     "hullId": "brawler_LG",
     "hullMods": [],
     "permaMods": [],

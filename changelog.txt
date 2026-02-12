@@ -1,10 +1,64 @@
+Version 1.4.0
+
+-Conquest- turret arcs improved, small turrets on hull sides now Hybrid
+
+-Pegasus- Hybrid turrets now Universal
+
+-Scarab- acceleration, flux stats, OP, PPT increased. New turrets on hull sides, shield upkeep & turret arcs improved
+
+-Vigilance- PPT increased, now the highest of all manned frigates
+
+-Sarissa- Now has 4000 support range, matching Xyphos, and gets damper field as a second system, increased top speed
+
+-Cobra- Now has Fortress Shield, flux stats & shield arc increased
+
+-Dagger- Now has Plasma Jets shipsystem, shield arc increased
+
+-Mining Drone- now has a second Mining Laser in a hardpoint
+
+-Lux- Reworked, now uses a downsized Graviton Beam and has tougher shields
+
+-PD Laser- Range increased
+
+-Mining Laser- Range and DPS increased, damage type now High Explosive, slower turning
+
+-Mining Blaster- Increased projectile velocity and flux efficiency
+
+-Dragonfire- Trigger range increased, cooldown increased
+
+-Hurricane- Weapon hints adjusted, submunitions gain weak homing
+
+-Small Harpoon & Sabot Racks- Cooldown reduced
+
+-Kinetic Fragment- Reworked, increased range and top speed, reduced damage, health, turning speed, and acceleration. Much easier for small ships to avoid.
+
+-Neutron Torpedo- Rework, now a two-stage missile like the Squall, +1 ammo
+
+-Gazer DEM- EMP damage increased
+
+-Atropos- Gain significant EMP damage, now always explode when flamed-out
+
+-Reality Disruptor- Projectile can be hit by pd, reduced health
+
+-Rift Beam- Range increased
+
+-Disintegrator- No longer has forced spread, accuracy stats adjusted to approximate previous behavior while allowing hits on small targets
+
+-Defensive Targeting Array- cost reduced, now 1/2/3/4 by hullsize
+
+-Minor variant adjustments
+
+-Adjusted weapon tagging to improve autofit results
+
+
 Version 1.3.0
 
 - Adjusted Swarmer & PCL weapon hints, should be used more effectively against ships when no PD targets are present
 - IRPL & Pulse Laser gain range, reduced DPS
-- Condor & Drover, +5 to Max Speed
+- Condor & Drover, +5 to top speed
 - Autopulse charges per reload 10->15
 - Minor variant adjustments
+
 
 Version 1.2.2
 

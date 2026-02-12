@@ -3,7 +3,7 @@
   "name": "A Vanilla Balance Tweak", # Displayed to the player
   "author": "Rift",
   "utility": false,
-  "version": { "major": '1', "minor": '3', "patch": '0' },
+  "version": { "major": '1', "minor": '4', "patch": '0' },
   "description": "Adjusts Vanilla content to improve variety",
   "gameVersion": "0.98a-RC8",
   "jars": [ "jars/avbt.jar" ],
@@ -386,10 +386,17 @@
 			"data/weapons/proj/type_1_srm.proj",
 			"data/weapons/swarmer.wpn",
 			"data/weapons/swarmer_fighter.wpn",
+			"data/weapons/disintegrator.wpn",
+			"data/weapons/proj/kinetic_fragments_missile.proj",
+			"data/weapons/proj/atropos_torp.proj",
+			"data/weapons/proj/neutron_torpedo_proj.proj",
+			"data/weapons/proj/realitydisruptor_shot.proj",
+			"data/weapons/proj/mirv_warhead.proj",
 			
 			"data/shipsystems/proj/flare_seeker.proj",
 			
-			"graphics/ships/remnants/remnant_cruiser1.png",
+			#"graphics/ships/remnants/remnant_cruiser1.png",
+			#"graphics/ships/scarab/scarab.png",
 			
 			"data/hulls/apex.ship",
 			"data/hulls/apogee.ship",
@@ -484,8 +491,6 @@
 			"data/hulls/wolf.ship",
 			"data/hulls/xyphos.ship",
 			
-			#"data/campaign/econ/hybrasil.json",
-			#"data/world/factions/tritachyon.faction",
 			],
 }	
 	

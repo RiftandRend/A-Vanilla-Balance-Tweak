@@ -8,7 +8,7 @@ Makeshift Shield Generator,frontshield,0,,,"shields, defensive, standard",Shield
 
 The shield generator draws much of its power from engines and reduces the ship's top speed by %s.",Installs basic shields on shieldless ship.,,graphics/hullmods/front_shield_generator.png
 Missile Autoloader,missile_autoloader,1,,,"offensive, merc, standard",Weapons,6000,,,,8,12,20,30,data.hullmods.MissileAutoloader,<tooltip created in the script due to sections/other complexity>,Reloads missile weapons in small missile mounts,Increases the post-reload cooldown to %s seconds.,graphics/hullmods/missile_autoloader.png
-Defensive Targeting Array,defensive_targeting_array,2,,,"special, merc, standard",Fighters,3000,,,,2,3,5,7,com.fs.starfarer.api.impl.hullmods.DefensiveTargetingArray,"Standard fighter communication links are re-purposed to provide short-range targeting data.
+Defensive Targeting Array,defensive_targeting_array,2,,,"special, merc, standard",Fighters,3000,,,,1,2,3,4,com.fs.starfarer.api.impl.hullmods.DefensiveTargetingArray,"Standard fighter communication links are re-purposed to provide short-range targeting data.
 
 Increases fighter damage to missiles and other fighters by %s, but makes the fighters unable to leave the vicinity of their ship.","Increases fighter PD damage, reduces fighter roam range to zero.",Extends range of ballistic and energy weapons of the ship's fighters by %s units.,graphics/hullmods/defensive_targeting_array.png
 ,,,,,,,,,,,,,,,,,,,

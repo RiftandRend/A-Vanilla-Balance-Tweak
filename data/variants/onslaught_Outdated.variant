@@ -1,16 +1,15 @@
 {
     "displayName": "Outdated",
-    "fluxCapacitors": 25,
+    "fluxCapacitors": 20,
     "fluxVents": 50,
     "goalVariant": true,
     "hullId": "onslaught",
     "hullMods": [
         "armoredweapons",
-        "blast_doors",
+        "ballistic_rangefinder",
         "fluxbreakers",
         "fluxdistributor",
         "heavyarmor",
-        "magazines",
         "targetingunit",
     ],
     "permaMods": [],
@@ -40,8 +39,20 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 018": "mark9",
-                "WS 020": "mark9",
+                "WS 018": "hellbore",
+                "WS 020": "hellbore",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "lightac",
+                "WS 009": "lightac",
+                "WS 006": "lightac",
+                "WS 004": "lightac",
+                "WS 005": "lightac",
+                "WS 002": "lightac",
             }
         },
         {
@@ -58,30 +69,18 @@
                 "WS 015": "heavymg",
                 "WS 014": "heavymg",
                 "WS 007": "heavymg",
+                "WS 003": "heavymg",
+                "WS 001": "heavymg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
                 "WS 013": "flak",
+                "WS 011": "flak",
                 "WS 012": "flak",
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
-                "WS 011": "shredder",
-                "WS 010": "shredder",
-                "WS 003": "shredder",
-                "WS 001": "shredder",
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
-                "WS 008": "lightmg",
-                "WS 009": "lightmg",
-                "WS 006": "lightmg",
-                "WS 004": "lightmg",
-                "WS 005": "lightmg",
-                "WS 002": "lightmg",
+                "WS 010": "flak",
             }
         },
     ],

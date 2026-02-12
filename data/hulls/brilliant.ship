@@ -3,7 +3,7 @@
     "hullId": "brilliant",
     "hullSize": "CRUISER",
     "style": "HIGH_TECH",
-    "spriteName": "graphics/ships/remnants/remnant_cruiser1.png",
+    "spriteName": "graphics/ships/remnants/AVBT_remnant_cruiser1.png",
     "height": 200,
     "width": 160,
     "center": [

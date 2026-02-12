@@ -1,7 +1,7 @@
 {
     "displayName": "Elite",
     "fluxCapacitors": 50,
-    "fluxVents": 34,
+    "fluxVents": 32,
     "goalVariant": true,
     "hullId": "conquest",
     "hullMods": [
@@ -16,6 +16,21 @@
     "variantId": "conquest_Elite",
     "weaponGroups": [
         {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "hurricane",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 019": "pilum",
+                "WS 020": "pilum",
+            }
+        },
+        {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
@@ -26,55 +41,28 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "hurricane",
-            }
-        },
-        {
-            "autofire": false,
-            "mode": "LINKED",
-            "weapons": {
                 "WS 012": "gauss",
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
+                "WS 008": "vulcan",
                 "WS 009": "pdburst",
-                "WS 007": "pdburst",
-                "WS 004": "pdburst",
-                "WS 005": "pdburst",
-                "WS 003": "pdburst",
+                "WS 006": "vulcan",
                 "WS 017": "vulcan",
+                "WS 007": "railgun",
                 "WS 018": "vulcan",
-                "WS 015": "shredder",
-                "WS 016": "shredder",
+                "WS 004": "pdburst",
+                "WS 015": "miningblaster",
+                "WS 005": "railgun",
+                "WS 016": "miningblaster",
+                "WS 003": "pdburst",
                 "WS 022": "miningblaster",
-                "WS 023": "miningblaster",
-                "WS 010": "pdburst",
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
                 "WS 001": "locust",
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "ALTERNATING",
-            "weapons": {
-                "WS 019": "phasecl",
-                "WS 020": "phasecl",
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
-                "WS 008": "lrpdlaser",
-                "WS 006": "lrpdlaser",
+                "WS 023": "heavyburst",
+                "WS 010": "pdburst",
             }
         },
     ],

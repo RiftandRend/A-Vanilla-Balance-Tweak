@@ -1,37 +1,42 @@
 {
     "displayName": "Standard",
     "fluxCapacitors": 10,
-    "fluxVents": 5,
+    "fluxVents": 2,
     "goalVariant": true,
     "hullId": "vigilance",
     "hullMods": [
         "extendedshieldemitter",
         "frontemitter",
         "hardenedshieldemitter",
-        "missleracks"
+        "missleracks",
     ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
     "variantId": "vigilance_Standard",
     "weaponGroups": [
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "heavyac"
+                "WS 001": "hveldriver",
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "harpoonpod"
+                "WS 002": "harpoonpod",
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 000": "swarmer"
+                "WS 000": "swarmer",
             }
-        }
-    ]
+        },
+    ],
+    "wings": [],
+    "modules": [],
 }

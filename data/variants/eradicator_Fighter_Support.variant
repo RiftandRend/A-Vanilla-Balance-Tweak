@@ -2,7 +2,7 @@
     "displayName": "Fighter Support",
     "fluxCapacitors": 21,
     "fluxVents": 30,
-    "goalVariant": true,
+    "goalVariant": false,
     "hullId": "eradicator",
     "hullMods": [
         "converted_hangar",

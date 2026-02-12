@@ -27,10 +27,10 @@
             "size": "SMALL",
             "type": "SYNERGY",
             "mount": "HIDDEN",
-            "arc": 120,
+            "arc": 90,
             "angle": 0,
             "locations": [
-                       1,        0
+                     7.5,        0
             ]
         },
         {
