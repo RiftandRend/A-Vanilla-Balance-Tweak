@@ -1,8 +1,7 @@
 {
 	"id":"mirv_warhead",
 	"specClass":"missile",	
-	#"missileType":"MISSILE",
-	"missileType":"MISSILE_TWO_STAGE_SECOND_UNGUIDED",
+	"missileType":"MISSILE",
 	"sprite":"graphics/missiles/missile_MIRV_warhead.png",
 	"size":[7,16],	
 	"center":[3.5,8],
@@ -13,20 +12,17 @@
 	"maxFlightTime":5,
 	"engineSpec":{
 				  "maxSpeed":400,
-				  #"turnAcc":1500,
-				  #"turnRate":750,
-				  #"acc":800,
-				  "turnAcc":2250,
-				  "turnRate":1100,
-				  "acc":2400,
-				  "dec":0},
+				  "turnAcc":90,
+				  "turnRate":45,
+				  "acc":400,
+				  "dec":200},
 	"engineSlots":[{"id":"ES1",
 					"loc":[-7, 0],
 				    #"style":"MISSILE_MIDLINE",
 				    "style":"CUSTOM",
 				    "styleSpec":{
 						"mode":"QUAD_STRIP", # PARTICLES or QUAD_STRIP, determines which params are used
-						"engineColor":[255,145,75,255],
+						"engineColor":[255,145,75,100],
 						"contrailDuration":0.5,
 						"contrailWidthMult":2,
 						"contrailWidthAddedFractionAtEnd":2,  # can be negative. makes trail spread out/narrow at the end
@@ -34,9 +30,9 @@
 						"contrailMaxSpeedMult":.0f,
 						"contrailAngularVelocityMult":0.5f,
 						"contrailSpawnDistMult":.5, # how far away from engine it starts
-						"contrailColor":[100,100,100,150],
+						"contrailColor":[100,100,100,100],
 						"glowSizeMult":4,
-						"glowAlternateColor":[255,145,75,155],
+						"glowAlternateColor":[255,145,75,100],
 						"type":"SMOKE" # GLOW or SMOKE; additive or regular blend mode
 					},
 				    "width":4.0,

@@ -29,6 +29,17 @@
             "locations": [
                        3,       -6
             ]
+        },
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "HIDDEN",
+            "arc": 10,
+            "angle": 0,
+            "locations": [
+                     0.5,        8
+            ]
         }
     ],
     "engineSlots": [

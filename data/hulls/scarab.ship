@@ -3,7 +3,7 @@
     "hullId": "scarab",
     "hullSize": "FRIGATE",
     "style": "HIGH_TECH",
-    "spriteName": "graphics/ships/scarab/scarab.png",
+    "spriteName": "graphics/ships/scarab/AVBT_scarab.png",
     "height": 96,
     "width": 96,
     "center": [
@@ -27,7 +27,7 @@
             "size": "SMALL",
             "type": "ENERGY",
             "mount": "TURRET",
-            "arc": 150,
+            "arc": 270,
             "angle": 0,
             "locations": [
                       23,        0
@@ -60,7 +60,7 @@
             "size": "SMALL",
             "type": "ENERGY",
             "mount": "TURRET",
-            "arc": 160,
+            "arc": 165,
             "angle": 315,
             "locations": [
                       23,      -33
@@ -71,8 +71,8 @@
             "size": "SMALL",
             "type": "ENERGY",
             "mount": "TURRET",
-            "arc": 160,
-            "angle": 120,
+            "arc": 215,
+            "angle": 130,
             "locations": [
                      -26,       32
             ]
@@ -82,8 +82,8 @@
             "size": "SMALL",
             "type": "ENERGY",
             "mount": "TURRET",
-            "arc": 160,
-            "angle": 240,
+            "arc": 215,
+            "angle": 230,
             "locations": [
                      -26,      -32
             ]
@@ -93,10 +93,32 @@
             "size": "SMALL",
             "type": "ENERGY",
             "mount": "TURRET",
-            "arc": 160,
+            "arc": 165,
             "angle": 45,
             "locations": [
                       23,       33
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "SYNERGY",
+            "mount": "TURRET",
+            "arc": 110,
+            "angle": 90,
+            "locations": [
+                      -1,       26
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "SMALL",
+            "type": "SYNERGY",
+            "mount": "TURRET",
+            "arc": 110,
+            "angle": -90,
+            "locations": [
+                      -1,      -26
             ]
         }
     ],

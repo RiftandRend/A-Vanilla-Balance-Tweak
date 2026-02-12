@@ -1,6 +1,6 @@
 {
     "displayName": "Assault",
-    "fluxCapacitors": 7,
+    "fluxCapacitors": 8,
     "fluxVents": 30,
     "goalVariant": true,
     "hullId": "dominator",
@@ -23,11 +23,12 @@
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS 016": "sabotpod",
-                "WS 014": "sabotpod",
+                "WS 015": "phasecl",
+                "WS 016": "phasecl",
+                "WS 014": "phasecl",
             }
         },
         {
@@ -35,6 +36,7 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 006": "lightac",
+                "WS 004": "lightac",
                 "WS 005": "lightac",
                 "WS 002": "lightac",
                 "WS 003": "lightac",
@@ -44,17 +46,9 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 015": "phasecl",
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
                 "WS 008": "vulcan",
                 "WS 009": "vulcan",
                 "WS 007": "vulcan",
-                "WS 004": "vulcan",
                 "WS 001": "vulcan",
             }
         },

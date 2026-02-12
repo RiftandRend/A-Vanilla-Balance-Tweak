@@ -34,11 +34,11 @@
 				    "length":20.0,
 				    "angle":180.0}],
 	"behaviorSpec":{"behavior":"PROXIMITY_FUSE",
-					"range":80,
+					"range":100,
 					"slowToMaxSpeed":true,
 					"explosionSpec":{"duration":0.1f,
-									 "radius":100,
-									 "coreRadius":80, # full damage within core radius
+									 "radius":110,
+									 "coreRadius":100, # full damage within core radius
 									 "collisionClass":PROJECTILE_FF,
 									 "collisionClassByFighter":PROJECTILE_FIGHTER,
 									 "particleSizeMin":1.0,

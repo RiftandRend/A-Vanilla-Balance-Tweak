@@ -1,15 +1,14 @@
 {
     "displayName": "Elite",
-    "fluxCapacitors": 20,
+    "fluxCapacitors": 14,
     "fluxVents": 50,
     "goalVariant": true,
     "hullId": "onslaught_xiv",
     "hullMods": [
-        "adaptiveshields",
         "armoredweapons",
+        "fluxbreakers",
         "fluxdistributor",
         "heavyarmor",
-        "magazines",
         "targetingunit",
     ],
     "permaMods": [],
@@ -37,14 +36,6 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 021": "sabotpod",
-                "WS 024": "sabotpod",
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
                 "WS 019": "multineedler",
             }
         },
@@ -52,8 +43,18 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 012": "hveldriver",
                 "WS 013": "hveldriver",
+                "WS 012": "hveldriver",
+                "WS 003": "hveldriver",
+                "WS 001": "hveldriver",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 024": "phasecl",
+                "WS 021": "phasecl",
             }
         },
         {
@@ -62,25 +63,23 @@
             "weapons": {
                 "WS 018": "devastator",
                 "WS 020": "devastator",
-                "WS 007": "dualflak",
-                "WS 010": "heavymg",
-                "WS 011": "heavymg",
-                "WS 014": "flak",
-                "WS 015": "flak",
-                "WS 002": "lightmg",
-                "WS 004": "lightmg",
-                "WS 005": "lightmg",
-                "WS 006": "lightmg",
-                "WS 008": "lightmg",
-                "WS 009": "lightmg",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 003": "shredder",
-                "WS 001": "shredder",
+                "WS 015": "flak",
+                "WS 014": "flak",
+                "WS 011": "shredder",
+                "WS 010": "shredder",
+                "WS 007": "shredder",
+                "WS 008": "lightdualmg",
+                "WS 009": "lightdualmg",
+                "WS 006": "lightdualmg",
+                "WS 004": "lightdualmg",
+                "WS 005": "lightdualmg",
+                "WS 002": "lightdualmg",
             }
         },
     ],

@@ -71,10 +71,10 @@
         {
             "id": "WS 005",
             "size": "SMALL",
-            "type": "ENERGY",
+            "type": "HYBRID",
             "mount": "TURRET",
             "arc": 170,
-            "angle": 85,
+            "angle": 87.5,
             "locations": [
                      128,       71
             ]
@@ -82,10 +82,10 @@
         {
             "id": "WS 006",
             "size": "SMALL",
-            "type": "ENERGY",
+            "type": "HYBRID",
             "mount": "TURRET",
             "arc": 170,
-            "angle": 275,
+            "angle": 272.5,
             "locations": [
                      128,      -71
             ]
@@ -93,10 +93,10 @@
         {
             "id": "WS 007",
             "size": "SMALL",
-            "type": "ENERGY",
+            "type": "HYBRID",
             "mount": "TURRET",
-            "arc": 160,
-            "angle": 85,
+            "arc": 170,
+            "angle": 87.5,
             "locations": [
                      -87,       78
             ]
@@ -104,10 +104,10 @@
         {
             "id": "WS 008",
             "size": "SMALL",
-            "type": "ENERGY",
+            "type": "HYBRID",
             "mount": "TURRET",
-            "arc": 160,
-            "angle": 275,
+            "arc": 170,
+            "angle": 272.5,
             "locations": [
                      -87,      -78
             ]
@@ -183,7 +183,7 @@
             "size": "MEDIUM",
             "type": "BALLISTIC",
             "mount": "TURRET",
-            "arc": 120,
+            "arc": 130,
             "angle": 90.5,
             "locations": [
                       71,       45
@@ -194,7 +194,7 @@
             "size": "MEDIUM",
             "type": "BALLISTIC",
             "mount": "TURRET",
-            "arc": 120,
+            "arc": 130,
             "angle": 90,
             "locations": [
                       -6,       52
@@ -205,7 +205,7 @@
             "size": "MEDIUM",
             "type": "BALLISTIC",
             "mount": "TURRET",
-            "arc": 120,
+            "arc": 130,
             "angle": -90.5,
             "locations": [
                       71,      -45
@@ -216,7 +216,7 @@
             "size": "MEDIUM",
             "type": "BALLISTIC",
             "mount": "TURRET",
-            "arc": 120,
+            "arc": 130,
             "angle": -90.5,
             "locations": [
                       -6,      -51
